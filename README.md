@@ -27,9 +27,9 @@ Source: [UN M49](https://unstats.un.org/unsd/methodology/m49/overview/)
 - currency-number
 - currency-name
 
-  Source: [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217)
+Source: [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217)
 
-  ## Flag
-  - emoji
-  - unicode
-  - image
+## Flag
+- emoji
+- unicode
+- image

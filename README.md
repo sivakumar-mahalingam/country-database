@@ -33,3 +33,5 @@ Source: [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217)
 - emoji
 - unicode
 - image
+
+Source: [Openmoji](https://openmoji.org/library/)

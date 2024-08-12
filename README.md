@@ -2,19 +2,19 @@
 Comprehensive repository of global country details, including country codes, ISD codes, currency codes, and more. 
 
 ## 🌐Country Codes
-- alpha 1
-- alpha 2
-- numeric codes
+- Alpha 1 Code
+- Alpha 2 Code
+- Numeric Code
   
 Source: [ISO 3166 - 1](https://en.wikipedia.org/wiki/ISO_3166-1)
 
 ## 🌍Region Details
-- region
-- region-code
-- sub-region
-- sub-region-code
-- intermediate-region
-- intermediate-region-code
+- Region Name
+- Region Code
+- Sub-Region Name
+- Sub-Region Code
+- Intermediate Region Name
+- Intermediate Region Code
 
 Source: [UN M49](https://unstats.un.org/unsd/methodology/m49/overview/)
 
@@ -23,15 +23,15 @@ Source: [UN M49](https://unstats.un.org/unsd/methodology/m49/overview/)
 ## ☎️ISD
 
 ## 💲Currency Codes
-- currency-code
-- currency-number
-- currency-name
+- Currency Code
+- Currency Number
+- Currency Name
 
 Source: [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217)
 
 ## 🚩Flag
-- emoji
-- unicode
-- image
+- Emoji
+- Unicode
+- Image
 
 Source: [Openmoji](https://openmoji.org/library/)

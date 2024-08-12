@@ -20,7 +20,7 @@ Source: [UN M49](https://unstats.un.org/unsd/methodology/m49/overview/)
 
 ## 🔗TLD
 
-## ☎️ISD
+## ☎️Calling Codes
 
 ## 💲Currency Codes
 - Currency Code

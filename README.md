@@ -35,3 +35,6 @@ Source: [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217)
 - Image
 
 Source: [Openmoji](https://openmoji.org/library/)
+
+# License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

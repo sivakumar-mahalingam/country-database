@@ -21,6 +21,9 @@ Source: [UN M49](https://unstats.un.org/unsd/methodology/m49/overview/)
 ## 🔗TLD
 
 ## ☎️Calling Codes
+- CallingCode
+
+Source: [ITU](https://www.itu.int/en/ITU-T/Pages/default.aspx)
 
 ## 💲Currency Codes
 - CurrencyCode

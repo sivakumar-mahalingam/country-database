@@ -9,6 +9,11 @@ Comprehensive repository of global country details, including country codes, ISD
 Source: [ISO 3166 - 1](https://en.wikipedia.org/wiki/ISO_3166-1)
 
 ## 🌍Region Details
+- Continent
+- Capital
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/List_of_national_capitals)
+  
 - RegionName
 - RegionCode
 - SubRegionName

@@ -4224,6 +4224,7 @@
         "CallingCode": "66",
         "CurrencyCode": "THB",
         "CurrencyNumericCode": "764",
+        "CurrencySymbol": "฿",
         "CurrencyName": "Thai Baht",
         "Emoji": "🇹🇭",
         "Unicode": "U+1F1F9 U+1F1ED"
@@ -4447,6 +4448,7 @@
         "CallingCode": "380",
         "CurrencyCode": "UAH",
         "CurrencyNumericCode": "980",
+        "CurrencySymbol": "₴",
         "CurrencyName": "Ukrainian Hryvnia",
         "Emoji": "🇺🇦",
         "Unicode": "U+1F1FA U+1F1E6"

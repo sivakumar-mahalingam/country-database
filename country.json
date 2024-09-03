@@ -32,6 +32,7 @@
         "CallingCode": "971",
         "CurrencyCode": "AED",
         "CurrencyNumericCode": "784",
+        "CurrencySymbol": "د.إ",
         "CurrencyName": "United Arab Emirates Dirham",
         "Emoji": "🇦🇪",
         "Unicode": "U+1F1E6 U+1F1EA"
@@ -151,6 +152,7 @@
         "CallingCode": "244",
         "CurrencyCode": "AOA",
         "CurrencyNumericCode": "973",
+        "CurrencySymbol": "Kz",
         "CurrencyName": "Angolan Kwanza",
         "Emoji": "🇦🇴",
         "Unicode": "U+1F1E6 U+1F1F4"
@@ -297,6 +299,7 @@
         "CallingCode": "994",
         "CurrencyCode": "AZN",
         "CurrencyNumericCode": "944",
+        "CurrencySymbol": "₼",
         "CurrencyName": "Azerbaijani Manat",
         "Emoji": "🇦🇿",
         "Unicode": "U+1F1E6 U+1F1FF"
@@ -315,6 +318,7 @@
         "CallingCode": "387",
         "CurrencyCode": "BAM",
         "CurrencyNumericCode": "977",
+        "CurrencySymbol": "KM",
         "CurrencyName": "Bosnia and Herzegovina Convertible Mark",
         "Emoji": "🇧🇦",
         "Unicode": "U+1F1E7 U+1F1E6"
@@ -394,6 +398,7 @@
         "CallingCode": "226",
         "CurrencyCode": "XOF",
         "CurrencyNumericCode": "952",
+        "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BCEAO",
         "Emoji": "🇧🇫",
         "Unicode": "U+1F1E7 U+1F1EB"
@@ -452,6 +457,7 @@
         "CallingCode": "257",
         "CurrencyCode": "BIF",
         "CurrencyNumericCode": "108",
+        "CurrencySymbol": "FBu",
         "CurrencyName": "Burundian Franc",
         "Emoji": "🇧🇮",
         "Unicode": "U+1F1E7 U+1F1EE"
@@ -472,6 +478,7 @@
         "CallingCode": "229",
         "CurrencyCode": "XOF",
         "CurrencyNumericCode": "952",
+        "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BCEAO",
         "Emoji": "🇧🇯",
         "Unicode": "U+1F1E7 U+1F1EF"
@@ -653,6 +660,7 @@
         "CallingCode": "47",
         "CurrencyCode": "NOK",
         "CurrencyNumericCode": "578",
+        "CurrencySymbol": "kr",
         "CurrencyName": "Norwegian Krone",
         "Emoji": "🇧🇻",
         "Unicode": "U+1F1E7 U+1F1FB"
@@ -673,6 +681,7 @@
         "CallingCode": "267",
         "CurrencyCode": "BWP",
         "CurrencyNumericCode": "072",
+        "CurrencySymbol": "P",
         "CurrencyName": "Botswana Pula",
         "Emoji": "🇧🇼",
         "Unicode": "U+1F1E7 U+1F1FC"
@@ -691,6 +700,7 @@
         "CallingCode": "375",
         "CurrencyCode": "BYN",
         "CurrencyNumericCode": "933",
+        "CurrencySymbol": "Br",
         "CurrencyName": "Belarusian Ruble",
         "Emoji": "🇧🇾",
         "Unicode": "U+1F1E7 U+1F1FE"
@@ -770,6 +780,7 @@
         "CallingCode": "243",
         "CurrencyCode": "CDF",
         "CurrencyNumericCode": "976",
+        "CurrencySymbol": "FC",
         "CurrencyName": "Congolese Franc",
         "Emoji": "🇨🇩",
         "Unicode": "U+1F1E8 U+1F1E9"
@@ -790,6 +801,7 @@
         "CallingCode": "236",
         "CurrencyCode": "XAF",
         "CurrencyNumericCode": "950",
+        "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BEAC",
         "Emoji": "🇨🇫",
         "Unicode": "U+1F1E8 U+1F1EB"
@@ -810,6 +822,7 @@
         "CallingCode": "242",
         "CurrencyCode": "XAF",
         "CurrencyNumericCode": "950",
+        "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BEAC",
         "Emoji": "🇨🇬",
         "Unicode": "U+1F1E8 U+1F1EC"
@@ -828,7 +841,7 @@
         "CallingCode": "41",
         "CurrencyCode": "CHF",
         "CurrencyNumericCode": "756",
-        "CurrencySymbol": "CHF",
+        "CurrencySymbol": "Fr",
         "CurrencyName": "Swiss Franc",
         "Emoji": "🇨🇭",
         "Unicode": "U+1F1E8 U+1F1ED"
@@ -849,6 +862,7 @@
         "CallingCode": "225",
         "CurrencyCode": "XOF",
         "CurrencyNumericCode": "952",
+        "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BCEAO",
         "Emoji": "🇨🇮",
         "Unicode": "U+1F1E8 U+1F1EE"
@@ -909,6 +923,7 @@
         "CallingCode": "237",
         "CurrencyCode": "XAF",
         "CurrencyNumericCode": "950",
+        "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BEAC",
         "Emoji": "🇨🇲",
         "Unicode": "U+1F1E8 U+1F1F2"
@@ -1209,7 +1224,7 @@
         "CallingCode": "213",
         "CurrencyCode": "DZD",
         "CurrencyNumericCode": "012",
-        "CurrencySymbol": "\tد.ج",
+        "CurrencySymbol": "د.ج",
         "CurrencyName": "Algerian Dinar",
         "Emoji": "🇩🇿",
         "Unicode": "U+1F1E9 U+1F1FF"
@@ -1287,6 +1302,7 @@
         "CallingCode": "212",
         "CurrencyCode": "MAD",
         "CurrencyNumericCode": "504",
+        "CurrencySymbol": "DH",
         "CurrencyName": "Moroccan Dirham",
         "Emoji": "🇪🇭",
         "Unicode": "U+1F1EA U+1F1ED"
@@ -1307,6 +1323,7 @@
         "CallingCode": "291",
         "CurrencyCode": "ERN",
         "CurrencyNumericCode": "232",
+        "CurrencySymbol": "Nfa",
         "CurrencyName": "Eritrean Nakfa",
         "Emoji": "🇪🇷",
         "Unicode": "U+1F1EA U+1F1F7"
@@ -1346,6 +1363,7 @@
         "CallingCode": "251",
         "CurrencyCode": "ETB",
         "CurrencyNumericCode": "230",
+        "CurrencySymbol": "Br",
         "CurrencyName": "Ethiopian Birr",
         "Emoji": "🇪🇹",
         "Unicode": "U+1F1EA U+1F1F9"
@@ -1482,6 +1500,7 @@
         "CallingCode": "241",
         "CurrencyCode": "XAF",
         "CurrencyNumericCode": "950",
+        "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BEAC",
         "Emoji": "🇬🇦",
         "Unicode": "U+1F1EC U+1F1E6"
@@ -1540,6 +1559,7 @@
         "CallingCode": "995",
         "CurrencyCode": "GEL",
         "CurrencyNumericCode": "981",
+        "CurrencySymbol": "₾",
         "CurrencyName": "Georgian Lari",
         "Emoji": "🇬🇪",
         "Unicode": "U+1F1EC U+1F1EA"
@@ -1600,6 +1620,7 @@
         "CallingCode": "233",
         "CurrencyCode": "GHS",
         "CurrencyNumericCode": "936",
+        "CurrencySymbol": "₵",
         "CurrencyName": "Ghanaian Cedi",
         "Emoji": "🇬🇭",
         "Unicode": "U+1F1EC U+1F1ED"
@@ -1658,6 +1679,7 @@
         "CallingCode": "220",
         "CurrencyCode": "GMD",
         "CurrencyNumericCode": "270",
+        "CurrencySymbol": "D",
         "CurrencyName": "Gambian Dalasi",
         "Emoji": "🇬🇲",
         "Unicode": "U+1F1EC U+1F1F2"
@@ -1678,6 +1700,7 @@
         "CallingCode": "224",
         "CurrencyCode": "GNF",
         "CurrencyNumericCode": "324",
+        "CurrencySymbol": "FG",
         "CurrencyName": "Guinean Franc",
         "Emoji": "🇬🇳",
         "Unicode": "U+1F1EC U+1F1F3"
@@ -1719,6 +1742,7 @@
         "CallingCode": "240",
         "CurrencyCode": "XAF",
         "CurrencyNumericCode": "950",
+        "CurrencySymbol": "£",
         "CurrencyName": "CFA Franc BEAC",
         "Emoji": "🇬🇶",
         "Unicode": "U+1F1EC U+1F1F6"
@@ -1758,6 +1782,7 @@
         "CallingCode": "500",
         "CurrencyCode": "GBP",
         "CurrencyNumericCode": "826",
+        "CurrencySymbol": "£",
         "CurrencyName": "Pound Sterling",
         "Emoji": "🇬🇸",
         "Unicode": "U+1F1EC U+1F1F8"
@@ -1778,6 +1803,7 @@
         "CallingCode": "502",
         "CurrencyCode": "GTQ",
         "CurrencyNumericCode": "320",
+        "CurrencySymbol": "Q",
         "CurrencyName": "Guatemalan Quetzal",
         "Emoji": "🇬🇹",
         "Unicode": "U+1F1EC U+1F1F9"
@@ -1817,6 +1843,7 @@
         "CallingCode": "245",
         "CurrencyCode": "XOF",
         "CurrencyNumericCode": "952",
+        "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BCEAO",
         "Emoji": "🇬🇼",
         "Unicode": "U+1F1EC U+1F1FC"
@@ -1895,6 +1922,7 @@
         "CallingCode": "504",
         "CurrencyCode": "HNL",
         "CurrencyNumericCode": "340",
+        "CurrencySymbol": "L",
         "CurrencyName": "Honduran Lempira",
         "Emoji": "🇭🇳",
         "Unicode": "U+1F1ED U+1F1F3"
@@ -1953,6 +1981,7 @@
         "CallingCode": "36",
         "CurrencyCode": "HUF",
         "CurrencyNumericCode": "348",
+        "CurrencySymbol": "Ft",
         "CurrencyName": "Hungarian Forint",
         "Emoji": "🇭🇺",
         "Unicode": "U+1F1ED U+1F1FA"
@@ -1971,6 +2000,7 @@
         "CallingCode": "62",
         "CurrencyCode": "IDR",
         "CurrencyNumericCode": "360",
+        "CurrencySymbol": "Rp",
         "CurrencyName": "Indonesian Rupiah",
         "Emoji": "🇮🇩",
         "Unicode": "U+1F1EE U+1F1E9"
@@ -2086,6 +2116,7 @@
         "CallingCode": "964",
         "CurrencyCode": "IQD",
         "CurrencyNumericCode": "368",
+        "CurrencySymbol": "د.ع",
         "CurrencyName": "Iraqi Dinar",
         "Emoji": "🇮🇶",
         "Unicode": "U+1F1EE U+1F1F6"
@@ -2123,6 +2154,7 @@
         "CallingCode": "354",
         "CurrencyCode": "ISK",
         "CurrencyNumericCode": "352",
+        "CurrencySymbol": "kr",
         "CurrencyName": "Icelandic Króna",
         "Emoji": "🇮🇸",
         "Unicode": "U+1F1EE U+1F1F8"
@@ -2240,6 +2272,7 @@
         "CallingCode": "254",
         "CurrencyCode": "KES",
         "CurrencyNumericCode": "404",
+        "CurrencySymbol": "KSh",
         "CurrencyName": "Kenyan Shilling",
         "Emoji": "🇰🇪",
         "Unicode": "U+1F1F0 U+1F1EA"
@@ -2317,7 +2350,8 @@
         "CallingCode": "269",
         "CurrencyCode": "KMF",
         "CurrencyNumericCode": "174",
-        "CurrencyName": "Comoro Franc",
+        "CurrencySymbol": "CF",
+        "CurrencyName": "Comorian franc",
         "Emoji": "🇰🇲",
         "Unicode": "U+1F1F0 U+1F1F2"
     },
@@ -2434,6 +2468,7 @@
         "CallingCode": "7",
         "CurrencyCode": "KZT",
         "CurrencyNumericCode": "398",
+        "CurrencySymbol": "T",
         "CurrencyName": "Kazakhstani Tenge",
         "Emoji": "🇰🇿",
         "Unicode": "U+1F1F0 U+1F1FF"
@@ -2530,6 +2565,7 @@
         "CallingCode": "94",
         "CurrencyCode": "LKR",
         "CurrencyNumericCode": "144",
+        "CurrencySymbol": "₨",
         "CurrencyName": "Sri Lankan Rupee",
         "Emoji": "🇱🇰",
         "Unicode": "U+1F1F1 U+1F1F0"
@@ -2571,6 +2607,7 @@
         "CallingCode": "266",
         "CurrencyCode": "LSL",
         "CurrencyNumericCode": "426",
+        "CurrencySymbol": "L",
         "CurrencyName": "Lesotho Loti",
         "Emoji": "🇱🇸",
         "Unicode": "U+1F1F1 U+1F1F8"
@@ -2646,6 +2683,7 @@
         "CallingCode": "218",
         "CurrencyCode": "LYD",
         "CurrencyNumericCode": "434",
+        "CurrencySymbol": "ل.د",
         "CurrencyName": "Libyan Dinar",
         "Emoji": "🇱🇾",
         "Unicode": "U+1F1F1 U+1F1FE"
@@ -2664,6 +2702,7 @@
         "CallingCode": "212",
         "CurrencyCode": "MAD",
         "CurrencyNumericCode": "504",
+        "CurrencySymbol": "د.م",
         "CurrencyName": "Moroccan Dirham",
         "Emoji": "🇲🇦",
         "Unicode": "U+1F1F2 U+1F1E6"
@@ -2701,6 +2740,7 @@
         "CallingCode": "373",
         "CurrencyCode": "MDL",
         "CurrencyNumericCode": "498",
+        "CurrencySymbol": "L",
         "CurrencyName": "Moldovan Leu",
         "Emoji": "🇲🇩",
         "Unicode": "U+1F1F2 U+1F1E9"
@@ -2761,6 +2801,7 @@
         "CallingCode": "261",
         "CurrencyCode": "MGA",
         "CurrencyNumericCode": "969",
+        "CurrencySymbol": "Ar",
         "CurrencyName": "Malagasy Aariary",
         "Emoji": "🇲🇬",
         "Unicode": "U+1F1F2 U+1F1EC"
@@ -2798,6 +2839,7 @@
         "CallingCode": "389",
         "CurrencyCode": "MKD",
         "CurrencyNumericCode": "807",
+        "CurrencySymbol": "ден",
         "CurrencyName": "Macedonian Denar",
         "Emoji": "🇲🇰",
         "Unicode": "U+1F1F2 U+1F1F0"
@@ -2818,6 +2860,7 @@
         "CallingCode": "223",
         "CurrencyCode": "XOF",
         "CurrencyNumericCode": "952",
+        "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BCEAO",
         "Emoji": "🇲🇱",
         "Unicode": "U+1F1F2 U+1F1F1"
@@ -2836,6 +2879,7 @@
         "CallingCode": "95",
         "CurrencyCode": "MMK",
         "CurrencyNumericCode": "104",
+        "CurrencySymbol": "K",
         "CurrencyName": "Myanmar Kyat",
         "Emoji": "🇲🇲",
         "Unicode": "U+1F1F2 U+1F1F2"
@@ -2854,6 +2898,7 @@
         "CallingCode": "976",
         "CurrencyCode": "MNT",
         "CurrencyNumericCode": "496",
+        "CurrencySymbol": "₮",
         "CurrencyName": "Mongolian Tögrög",
         "Emoji": "🇲🇳",
         "Unicode": "U+1F1F2 U+1F1F3"
@@ -2871,6 +2916,7 @@
         "CallingCode": "853",
         "CurrencyCode": "MOP",
         "CurrencyNumericCode": "446",
+        "CurrencySymbol": "$",
         "CurrencyName": "Macanese Pataca",
         "Emoji": "🇲🇴",
         "Unicode": "U+1F1F2 U+1F1F4"
@@ -2931,6 +2977,7 @@
         "CallingCode": "222",
         "CurrencyCode": "MRU",
         "CurrencyNumericCode": "929",
+        "CurrencySymbol": "UM",
         "CurrencyName": "Mauritanian Ouguiya",
         "Emoji": "🇲🇷",
         "Unicode": "U+1F1F2 U+1F1F7"
@@ -2991,6 +3038,7 @@
         "CallingCode": "230",
         "CurrencyCode": "MUR",
         "CurrencyNumericCode": "480",
+        "CurrencySymbol": "₨",
         "CurrencyName": "Mauritian Rupee",
         "Emoji": "🇲🇺",
         "Unicode": "U+1F1F2 U+1F1FA"
@@ -3030,6 +3078,7 @@
         "CallingCode": "265",
         "CurrencyCode": "MWK",
         "CurrencyNumericCode": "454",
+        "CurrencySymbol": "MK",
         "CurrencyName": "Malawian Kwacha",
         "Emoji": "🇲🇼",
         "Unicode": "U+1F1F2 U+1F1FC"
@@ -3069,6 +3118,7 @@
         "CallingCode": "60",
         "CurrencyCode": "MYR",
         "CurrencyNumericCode": "458",
+        "CurrencySymbol": "RM",
         "CurrencyName": "Malaysian Ringgit",
         "Emoji": "🇲🇾",
         "Unicode": "U+1F1F2 U+1F1FE"
@@ -3089,6 +3139,7 @@
         "CallingCode": "258",
         "CurrencyCode": "MZN",
         "CurrencyNumericCode": "943",
+        "CurrencySymbol": "MT",
         "CurrencyName": "Mozambican Metical",
         "Emoji": "🇲🇿",
         "Unicode": "U+1F1F2 U+1F1FF"
@@ -3127,6 +3178,7 @@
         "CallingCode": "687",
         "CurrencyCode": "XPF",
         "CurrencyNumericCode": "953",
+        "CurrencySymbol": "₣",
         "CurrencyName": "CFP Franc",
         "Emoji": "🇳🇨",
         "Unicode": "U+1F1F3 U+1F1E8"
@@ -3147,6 +3199,7 @@
         "CallingCode": "227",
         "CurrencyCode": "XOF",
         "CurrencyNumericCode": "952",
+        "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BCEAO",
         "Emoji": "🇳🇪",
         "Unicode": "U+1F1F3 U+1F1EA"
@@ -3186,6 +3239,7 @@
         "CallingCode": "234",
         "CurrencyCode": "NGN",
         "CurrencyNumericCode": "566",
+        "CurrencySymbol": "₦",
         "CurrencyName": "Nigerian Naira",
         "Emoji": "🇳🇬",
         "Unicode": "U+1F1F3 U+1F1EC"
@@ -3244,6 +3298,7 @@
         "CallingCode": "47",
         "CurrencyCode": "NOK",
         "CurrencyNumericCode": "578",
+        "CurrencySymbol": "kr",
         "CurrencyName": "Norwegian Krone",
         "Emoji": "🇳🇴",
         "Unicode": "U+1F1F3 U+1F1F4"
@@ -3262,6 +3317,7 @@
         "CallingCode": "977",
         "CurrencyCode": "NPR",
         "CurrencyNumericCode": "524",
+        "CurrencySymbol": "Rs",
         "CurrencyName": "Nepalese Rupee",
         "Emoji": "🇳🇵",
         "Unicode": "U+1F1F3 U+1F1F5"
@@ -3337,6 +3393,7 @@
         "CallingCode": "968",
         "CurrencyCode": "OMR",
         "CurrencyNumericCode": "512",
+        "CurrencySymbol": "ر.ع.",
         "CurrencyName": "Omani Rial",
         "Emoji": "🇴🇲",
         "Unicode": "U+1F1F4 U+1F1F2"
@@ -3357,7 +3414,7 @@
         "CallingCode": "507",
         "CurrencyCode": "PAB",
         "CurrencyNumericCode": "590",
-        "CurrencySymbol": "$",
+        "CurrencySymbol": "B/.",
         "CurrencyName": "Panamanian Balboa",
         "Emoji": "🇵🇦",
         "Unicode": "U+1F1F5 U+1F1E6"
@@ -3378,6 +3435,7 @@
         "CallingCode": "51",
         "CurrencyCode": "PEN",
         "CurrencyNumericCode": "604",
+        "CurrencySymbol": "S/",
         "CurrencyName": "Peruvian Sol",
         "Emoji": "🇵🇪",
         "Unicode": "U+1F1F5 U+1F1EA"
@@ -3396,6 +3454,7 @@
         "CallingCode": "689",
         "CurrencyCode": "XPF",
         "CurrencyNumericCode": "953",
+        "CurrencySymbol": "₣",
         "CurrencyName": "CFP Franc",
         "Emoji": "🇵🇫",
         "Unicode": "U+1F1F5 U+1F1EB"
@@ -3414,6 +3473,7 @@
         "CallingCode": "675",
         "CurrencyCode": "PGK",
         "CurrencyNumericCode": "598",
+        "CurrencySymbol": "K",
         "CurrencyName": "Papua New Guinean Kina",
         "Emoji": "🇵🇬",
         "Unicode": "U+1F1F5 U+1F1EC"
@@ -3432,6 +3492,7 @@
         "CallingCode": "63",
         "CurrencyCode": "PHP",
         "CurrencyNumericCode": "608",
+        "CurrencySymbol": "₱",
         "CurrencyName": "Philippine Peso",
         "Emoji": "🇵🇭",
         "Unicode": "U+1F1F5 U+1F1ED"
@@ -3450,6 +3511,7 @@
         "CallingCode": "92",
         "CurrencyCode": "PKR",
         "CurrencyNumericCode": "586",
+        "CurrencySymbol": "Rs",
         "CurrencyName": "Pakistani Rupee",
         "Emoji": "🇵🇰",
         "Unicode": "U+1F1F5 U+1F1F0"
@@ -3468,6 +3530,7 @@
         "CallingCode": "48",
         "CurrencyCode": "PLN",
         "CurrencyNumericCode": "985",
+        "CurrencySymbol": "zł",
         "CurrencyName": "Polish Złoty",
         "Emoji": "🇵🇱",
         "Unicode": "U+1F1F5 U+1F1F1"
@@ -3543,6 +3606,10 @@
         "SubRegionName": "Western Asia",
         "SubRegionCode": "145",
         "CallingCode": "970",
+        "CurrencyCode": "ILS",
+        "CurrencyNumericCode": "376",
+        "CurrencySymbol": "₪",
+        "CurrencyName": "Israeli New Shekel",
         "Emoji": "🇵🇸",
         "Unicode": "U+1F1F5 U+1F1F8"
     },
@@ -3600,6 +3667,7 @@
         "CallingCode": "595",
         "CurrencyCode": "PYG",
         "CurrencyNumericCode": "600",
+        "CurrencySymbol": "₲",
         "CurrencyName": "Paraguayan Guaraní",
         "Emoji": "🇵🇾",
         "Unicode": "U+1F1F5 U+1F1FE"
@@ -3618,6 +3686,7 @@
         "CallingCode": "974",
         "CurrencyCode": "QAR",
         "CurrencyNumericCode": "634",
+        "CurrencySymbol": "ر.ق",
         "CurrencyName": "Qatari Riyal",
         "Emoji": "🇶🇦",
         "Unicode": "U+1F1F6 U+1F1E6"
@@ -3657,6 +3726,7 @@
         "CallingCode": "40",
         "CurrencyCode": "RON",
         "CurrencyNumericCode": "946",
+        "CurrencySymbol": "lei",
         "CurrencyName": "Romanian Leu",
         "Emoji": "🇷🇴",
         "Unicode": "U+1F1F7 U+1F1F4"
@@ -3675,6 +3745,7 @@
         "CallingCode": "381",
         "CurrencyCode": "RSD",
         "CurrencyNumericCode": "941",
+        "CurrencySymbol": "дин",
         "CurrencyName": "Serbian Dinar",
         "Emoji": "🇷🇸",
         "Unicode": "U+1F1F7 U+1F1F8"
@@ -3714,6 +3785,7 @@
         "CallingCode": "250",
         "CurrencyCode": "RWF",
         "CurrencyNumericCode": "646",
+        "CurrencySymbol": "FRw",
         "CurrencyName": "Rwandan Franc",
         "Emoji": "🇷🇼",
         "Unicode": "U+1F1F7 U+1F1FC"
@@ -3732,6 +3804,7 @@
         "CallingCode": "966",
         "CurrencyCode": "SAR",
         "CurrencyNumericCode": "682",
+        "CurrencySymbol": "ر.س",
         "CurrencyName": "Saudi Riyal",
         "Emoji": "🇸🇦",
         "Unicode": "U+1F1F8 U+1F1E6"
@@ -3771,6 +3844,7 @@
         "CallingCode": "248",
         "CurrencyCode": "SCR",
         "CurrencyNumericCode": "690",
+        "CurrencySymbol": "₨",
         "CurrencyName": "Seychelles Rupee",
         "Emoji": "🇸🇨",
         "Unicode": "U+1F1F8 U+1F1E8"
@@ -3789,6 +3863,7 @@
         "CallingCode": "249",
         "CurrencyCode": "SDG",
         "CurrencyNumericCode": "938",
+        "CurrencySymbol": "ج.س",
         "CurrencyName": "Sudanese Pound",
         "Emoji": "🇸🇩",
         "Unicode": "U+1F1F8 U+1F1E9"
@@ -3808,6 +3883,7 @@
         "CurrencyCode": "SEK",
         "CurrencyNumericCode": "752",
         "CurrencyName": "Swedish Krona",
+        "CurrencySymbol": "kr",
         "Emoji": "🇸🇪",
         "Unicode": "U+1F1F8 U+1F1EA"
     },
@@ -3884,6 +3960,7 @@
         "CallingCode": "47-79",
         "CurrencyCode": "NOK",
         "CurrencyNumericCode": "578",
+        "CurrencySymbol": "kr",
         "CurrencyName": "Norwegian Krone",
         "Emoji": "🇸🇯",
         "Unicode": "U+1F1F8 U+1F1EF"
@@ -3923,6 +4000,7 @@
         "CallingCode": "232",
         "CurrencyCode": "SLE",
         "CurrencyNumericCode": "925",
+        "CurrencySymbol": "Le",
         "CurrencyName": "Sierra Leonean Leone",
         "Emoji": "🇸🇱",
         "Unicode": "U+1F1F8 U+1F1F1"
@@ -3962,6 +4040,7 @@
         "CallingCode": "221",
         "CurrencyCode": "XOF",
         "CurrencyNumericCode": "952",
+        "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BCEAO",
         "Emoji": "🇸🇳",
         "Unicode": "U+1F1F8 U+1F1F3"
@@ -3982,6 +4061,7 @@
         "CallingCode": "252",
         "CurrencyCode": "SOS",
         "CurrencyNumericCode": "706",
+        "CurrencySymbol": "Sh",
         "CurrencyName": "Somalian Shilling",
         "Emoji": "🇸🇴",
         "Unicode": "U+1F1F8 U+1F1F4"
@@ -4023,6 +4103,7 @@
         "CallingCode": "211",
         "CurrencyCode": "SSP",
         "CurrencyNumericCode": "728",
+        "CurrencySymbol": "CFA",
         "CurrencyName": "South Sudanese Pound",
         "Emoji": "🇸🇸",
         "Unicode": "U+1F1F8 U+1F1F8"
@@ -4043,6 +4124,7 @@
         "CallingCode": "239",
         "CurrencyCode": "STN",
         "CurrencyNumericCode": "930",
+        "CurrencySymbol": "Db",
         "CurrencyName": "São Tomé and Príncipe Dobra",
         "Emoji": "🇸🇹",
         "Unicode": "U+1F1F8 U+1F1F9"
@@ -4124,6 +4206,7 @@
         "CallingCode": "268",
         "CurrencyCode": "SZL",
         "CurrencyNumericCode": "748",
+        "CurrencySymbol": "E",
         "CurrencyName": "Swazi Lilangeni",
         "Emoji": "🇸🇿",
         "Unicode": "U+1F1F8 U+1F1FF"
@@ -4165,6 +4248,7 @@
         "CallingCode": "235",
         "CurrencyCode": "XAF",
         "CurrencyNumericCode": "950",
+        "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BEAC",
         "Emoji": "🇹🇩",
         "Unicode": "U+1F1F9 U+1F1E9"
@@ -4206,6 +4290,7 @@
         "CallingCode": "228",
         "CurrencyCode": "XOF",
         "CurrencyNumericCode": "952",
+        "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BCEAO",
         "Emoji": "🇹🇬",
         "Unicode": "U+1F1F9 U+1F1EC"
@@ -4243,6 +4328,7 @@
         "CallingCode": "992",
         "CurrencyCode": "TJS",
         "CurrencyNumericCode": "972",
+        "CurrencySymbol": "SM",
         "CurrencyName": "Tajikistani Somoni",
         "Emoji": "🇹🇯",
         "Unicode": "U+1F1F9 U+1F1EF"
@@ -4337,6 +4423,7 @@
         "CallingCode": "676",
         "CurrencyCode": "TOP",
         "CurrencyNumericCode": "776",
+        "CurrencySymbol": "T$",
         "CurrencyName": "Tongan Paʻanga",
         "Emoji": "🇹🇴",
         "Unicode": "U+1F1F9 U+1F1F4"
@@ -4355,6 +4442,7 @@
         "CallingCode": "90",
         "CurrencyCode": "TRY",
         "CurrencyNumericCode": "949",
+        "CurrencySymbol": "₺",
         "CurrencyName": "Turkish Lira",
         "Emoji": "🇹🇷",
         "Unicode": "U+1F1F9 U+1F1F7"
@@ -4430,6 +4518,7 @@
         "CallingCode": "255",
         "CurrencyCode": "TZS",
         "CurrencyNumericCode": "834",
+        "CurrencySymbol": "TSh",
         "CurrencyName": "Tanzanian Shilling",
         "Emoji": "🇹🇿",
         "Unicode": "U+1F1F9 U+1F1FF"
@@ -4469,6 +4558,7 @@
         "CallingCode": "256",
         "CurrencyCode": "UGX",
         "CurrencyNumericCode": "800",
+        "CurrencySymbol": "Sh",
         "CurrencyName": "Ugandan Shilling",
         "Emoji": "🇺🇬",
         "Unicode": "U+1F1FA U+1F1EC"
@@ -4545,6 +4635,7 @@
         "CallingCode": "998",
         "CurrencyCode": "UZS",
         "CurrencyNumericCode": "860",
+        "CurrencySymbol": "soʻm",
         "CurrencyName": "Uzbekistani Sum",
         "Emoji": "🇺🇿",
         "Unicode": "U+1F1FA U+1F1FF"
@@ -4605,6 +4696,7 @@
         "CallingCode": "58",
         "CurrencyCode": "VES/VED",
         "CurrencyNumericCode": "928/926",
+        "CurrencySymbol": "Bs.",
         "CurrencyName": "Venezuelan Sovereign Bolívar/Venezuelan Digital Bolívar",
         "Emoji": "🇻🇪",
         "Unicode": "U+1F1FB U+1F1EA"
@@ -4665,6 +4757,7 @@
         "CallingCode": "84",
         "CurrencyCode": "VND",
         "CurrencyNumericCode": "704",
+        "CurrencySymbol": "đ",
         "CurrencyName": "Vietnamese đồng",
         "Emoji": "🇻🇳",
         "Unicode": "U+1F1FB U+1F1F3"
@@ -4683,6 +4776,7 @@
         "CallingCode": "678",
         "CurrencyCode": "VUV",
         "CurrencyNumericCode": "548",
+        "CurrencySymbol": "VT",
         "CurrencyName": "Vanuatu Vatu",
         "Emoji": "🇻🇺",
         "Unicode": "U+1F1FB U+1F1FA"
@@ -4701,6 +4795,7 @@
         "CallingCode": "681",
         "CurrencyCode": "XPF",
         "CurrencyNumericCode": "953",
+        "CurrencySymbol": "CFP",
         "CurrencyName": "CFP Franc",
         "Emoji": "🇼🇫",
         "Unicode": "U+1F1FC U+1F1EB"
@@ -4738,6 +4833,7 @@
         "CallingCode": "967",
         "CurrencyCode": "YER",
         "CurrencyNumericCode": "886",
+        "CurrencySymbol": "﷼",
         "CurrencyName": "Yemeni Rial",
         "Emoji": "🇾🇪",
         "Unicode": "U+1F1FE U+1F1EA"
@@ -4779,6 +4875,7 @@
         "CallingCode": "27",
         "CurrencyCode": "ZAR",
         "CurrencyNumericCode": "710",
+        "CurrencySymbol": "R",
         "CurrencyName": "South African Rand",
         "Emoji": "🇿🇦",
         "Unicode": "U+1F1FF U+1F1E6"
@@ -4799,6 +4896,7 @@
         "CallingCode": "260",
         "CurrencyCode": "ZMW",
         "CurrencyNumericCode": "967",
+        "CurrencySymbol": "ZK",
         "CurrencyName": "Zambian Kwacha",
         "Emoji": "🇿🇲",
         "Unicode": "U+1F1FF U+1F1F2"

@@ -15,8 +15,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇦🇩",
-        "Unicode": "U+1F1E6 U+1F1E9"
+        "FlagEmoji": "🇦🇩",
+        "FlagUnicode": "U+1F1E6 U+1F1E9"
     },
     {
         "CountryName": "United Arab Emirates",
@@ -34,8 +34,8 @@
         "CurrencyNumericCode": "784",
         "CurrencySymbol": "د.إ",
         "CurrencyName": "United Arab Emirates Dirham",
-        "Emoji": "🇦🇪",
-        "Unicode": "U+1F1E6 U+1F1EA"
+        "FlagEmoji": "🇦🇪",
+        "FlagUnicode": "U+1F1E6 U+1F1EA"
     },
     {
         "CountryName": "Afghanistan",
@@ -53,8 +53,8 @@
         "CurrencyNumericCode": "971",
         "CurrencySymbol": "؋",
         "CurrencyName": "Afghan Afghani",
-        "Emoji": "🇦🇫",
-        "Unicode": "U+1F1E6 U+1F1EB"
+        "FlagEmoji": "🇦🇫",
+        "FlagUnicode": "U+1F1E6 U+1F1EB"
     },
     {
         "CountryName": "Antigua and Barbuda",
@@ -74,8 +74,8 @@
         "CurrencyNumericCode": "951",
         "CurrencySymbol": "$",
         "CurrencyName": "East Caribbean Dollar",
-        "Emoji": "🇦🇬",
-        "Unicode": "U+1F1E6 U+1F1EC"
+        "FlagEmoji": "🇦🇬",
+        "FlagUnicode": "U+1F1E6 U+1F1EC"
     },
     {
         "CountryName": "Anguilla",
@@ -95,8 +95,8 @@
         "CurrencyNumericCode": "951",
         "CurrencySymbol": "$",
         "CurrencyName": "East Caribbean Dollar",
-        "Emoji": "🇦🇮",
-        "Unicode": "U+1F1E6 U+1F1EE"
+        "FlagEmoji": "🇦🇮",
+        "FlagUnicode": "U+1F1E6 U+1F1EE"
     },
     {
         "CountryName": "Albania",
@@ -114,8 +114,8 @@
         "CurrencyNumericCode": "008",
         "CurrencySymbol": "Lek",
         "CurrencyName": "Albanian Lek",
-        "Emoji": "🇦🇱",
-        "Unicode": "U+1F1E6 U+1F1F1"
+        "FlagEmoji": "🇦🇱",
+        "FlagUnicode": "U+1F1E6 U+1F1F1"
     },
     {
         "CountryName": "Armenia",
@@ -133,8 +133,8 @@
         "CurrencyNumericCode": "051",
         "CurrencySymbol": "Դ",
         "CurrencyName": "Armenian Dram",
-        "Emoji": "🇦🇲",
-        "Unicode": "U+1F1E6 U+1F1F2"
+        "FlagEmoji": "🇦🇲",
+        "FlagUnicode": "U+1F1E6 U+1F1F2"
     },
     {
         "CountryName": "Angola",
@@ -154,8 +154,8 @@
         "CurrencyNumericCode": "973",
         "CurrencySymbol": "Kz",
         "CurrencyName": "Angolan Kwanza",
-        "Emoji": "🇦🇴",
-        "Unicode": "U+1F1E6 U+1F1F4"
+        "FlagEmoji": "🇦🇴",
+        "FlagUnicode": "U+1F1E6 U+1F1F4"
     },
     {
         "CountryName": "Antarctica",
@@ -163,8 +163,8 @@
         "Alpha3Code": "ATA",
         "NumericCode": "10",
         "Continent": "Antarctica",
-        "Emoji": "🇦🇶",
-        "Unicode": "U+1F1E6 U+1F1F6"
+        "FlagEmoji": "🇦🇶",
+        "FlagUnicode": "U+1F1E6 U+1F1F6"
     },
     {
         "CountryName": "Argentina",
@@ -185,8 +185,8 @@
         "CurrencyNumericCode": "032",
         "CurrencySymbol": "$",
         "CurrencyName": "Argentine Peso",
-        "Emoji": "🇦🇷",
-        "Unicode": "U+1F1E6 U+1F1F7"
+        "FlagEmoji": "🇦🇷",
+        "FlagUnicode": "U+1F1E6 U+1F1F7"
     },
     {
         "CountryName": "American Samoa",
@@ -204,8 +204,8 @@
         "CurrencyNumericCode": "840",
         "CurrencySymbol": "$",
         "CurrencyName": "United States Dollar",
-        "Emoji": "🇦🇸",
-        "Unicode": "U+1F1E6 U+1F1F8"
+        "FlagEmoji": "🇦🇸",
+        "FlagUnicode": "U+1F1E6 U+1F1F8"
     },
     {
         "CountryName": "Austria",
@@ -223,8 +223,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇦🇹",
-        "Unicode": "U+1F1E6 U+1F1F9"
+        "FlagEmoji": "🇦🇹",
+        "FlagUnicode": "U+1F1E6 U+1F1F9"
     },
     {
         "CountryName": "Australia",
@@ -242,8 +242,8 @@
         "CurrencyNumericCode": "036",
         "CurrencySymbol": "$",
         "CurrencyName": "Australian Dollar",
-        "Emoji": "🇦🇺",
-        "Unicode": "U+1F1E6 U+1F1FA"
+        "FlagEmoji": "🇦🇺",
+        "FlagUnicode": "U+1F1E6 U+1F1FA"
     },
     {
         "CountryName": "Aruba",
@@ -263,8 +263,8 @@
         "CurrencyNumericCode": "533",
         "CurrencySymbol": "ƒ",
         "CurrencyName": "Aruban Florin",
-        "Emoji": "🇦🇼",
-        "Unicode": "U+1F1E6 U+1F1FC"
+        "FlagEmoji": "🇦🇼",
+        "FlagUnicode": "U+1F1E6 U+1F1FC"
     },
     {
         "CountryName": "Åland Islands",
@@ -282,8 +282,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇦🇽",
-        "Unicode": "U+1F1E6 U+1F1FD"
+        "FlagEmoji": "🇦🇽",
+        "FlagUnicode": "U+1F1E6 U+1F1FD"
     },
     {
         "CountryName": "Azerbaijan",
@@ -301,8 +301,8 @@
         "CurrencyNumericCode": "944",
         "CurrencySymbol": "₼",
         "CurrencyName": "Azerbaijani Manat",
-        "Emoji": "🇦🇿",
-        "Unicode": "U+1F1E6 U+1F1FF"
+        "FlagEmoji": "🇦🇿",
+        "FlagUnicode": "U+1F1E6 U+1F1FF"
     },
     {
         "CountryName": "Bosnia and Herzegovina",
@@ -320,8 +320,8 @@
         "CurrencyNumericCode": "977",
         "CurrencySymbol": "KM",
         "CurrencyName": "Bosnia and Herzegovina Convertible Mark",
-        "Emoji": "🇧🇦",
-        "Unicode": "U+1F1E7 U+1F1E6"
+        "FlagEmoji": "🇧🇦",
+        "FlagUnicode": "U+1F1E7 U+1F1E6"
     },
     {
         "CountryName": "Barbados",
@@ -341,8 +341,8 @@
         "CurrencyNumericCode": "052",
         "CurrencySymbol": "$",
         "CurrencyName": "Barbados Dollar",
-        "Emoji": "🇧🇧",
-        "Unicode": "U+1F1E7 U+1F1E7"
+        "FlagEmoji": "🇧🇧",
+        "FlagUnicode": "U+1F1E7 U+1F1E7"
     },
     {
         "CountryName": "Bangladesh",
@@ -360,8 +360,8 @@
         "CurrencyNumericCode": "050",
         "CurrencySymbol": "৳",
         "CurrencyName": "Bangladeshi Taka",
-        "Emoji": "🇧🇩",
-        "Unicode": "U+1F1E7 U+1F1E9"
+        "FlagEmoji": "🇧🇩",
+        "FlagUnicode": "U+1F1E7 U+1F1E9"
     },
     {
         "CountryName": "Belgium",
@@ -379,8 +379,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇧🇪",
-        "Unicode": "U+1F1E7 U+1F1EA"
+        "FlagEmoji": "🇧🇪",
+        "FlagUnicode": "U+1F1E7 U+1F1EA"
     },
     {
         "CountryName": "Burkina Faso",
@@ -400,8 +400,8 @@
         "CurrencyNumericCode": "952",
         "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BCEAO",
-        "Emoji": "🇧🇫",
-        "Unicode": "U+1F1E7 U+1F1EB"
+        "FlagEmoji": "🇧🇫",
+        "FlagUnicode": "U+1F1E7 U+1F1EB"
     },
     {
         "CountryName": "Bulgaria",
@@ -419,8 +419,8 @@
         "CurrencyNumericCode": "975",
         "CurrencySymbol": "лв",
         "CurrencyName": "Bulgarian Lev",
-        "Emoji": "🇧🇬",
-        "Unicode": "U+1F1E7 U+1F1EC"
+        "FlagEmoji": "🇧🇬",
+        "FlagUnicode": "U+1F1E7 U+1F1EC"
     },
     {
         "CountryName": "Bahrain",
@@ -438,8 +438,8 @@
         "CurrencyNumericCode": "048",
         "CurrencySymbol": "ب.د",
         "CurrencyName": "Bahraini Dinar",
-        "Emoji": "🇧🇭",
-        "Unicode": "U+1F1E7 U+1F1ED"
+        "FlagEmoji": "🇧🇭",
+        "FlagUnicode": "U+1F1E7 U+1F1ED"
     },
     {
         "CountryName": "Burundi",
@@ -459,8 +459,8 @@
         "CurrencyNumericCode": "108",
         "CurrencySymbol": "FBu",
         "CurrencyName": "Burundian Franc",
-        "Emoji": "🇧🇮",
-        "Unicode": "U+1F1E7 U+1F1EE"
+        "FlagEmoji": "🇧🇮",
+        "FlagUnicode": "U+1F1E7 U+1F1EE"
     },
     {
         "CountryName": "Benin",
@@ -480,8 +480,8 @@
         "CurrencyNumericCode": "952",
         "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BCEAO",
-        "Emoji": "🇧🇯",
-        "Unicode": "U+1F1E7 U+1F1EF"
+        "FlagEmoji": "🇧🇯",
+        "FlagUnicode": "U+1F1E7 U+1F1EF"
     },
     {
         "CountryName": "Saint Barthélemy",
@@ -501,8 +501,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇧🇱",
-        "Unicode": "U+1F1E7 U+1F1F1"
+        "FlagEmoji": "🇧🇱",
+        "FlagUnicode": "U+1F1E7 U+1F1F1"
     },
     {
         "CountryName": "Bermuda",
@@ -520,8 +520,8 @@
         "CurrencyNumericCode": "060",
         "CurrencySymbol": "$",
         "CurrencyName": "Bermudian Dollar",
-        "Emoji": "🇧🇲",
-        "Unicode": "U+1F1E7 U+1F1F2"
+        "FlagEmoji": "🇧🇲",
+        "FlagUnicode": "U+1F1E7 U+1F1F2"
     },
     {
         "CountryName": "Brunei Darussalam",
@@ -539,8 +539,8 @@
         "CurrencyNumericCode": "096",
         "CurrencySymbol": "$",
         "CurrencyName": "Brunei Dollar",
-        "Emoji": "🇧🇳",
-        "Unicode": "U+1F1E7 U+1F1F3"
+        "FlagEmoji": "🇧🇳",
+        "FlagUnicode": "U+1F1E7 U+1F1F3"
     },
     {
         "CountryName": "Bolivia (Plurinational State of)",
@@ -560,8 +560,8 @@
         "CurrencyNumericCode": "068",
         "CurrencySymbol": "$",
         "CurrencyName": "Boliviano",
-        "Emoji": "🇧🇴",
-        "Unicode": "U+1F1E7 U+1F1F4"
+        "FlagEmoji": "🇧🇴",
+        "FlagUnicode": "U+1F1E7 U+1F1F4"
     },
     {
         "CountryName": "Bonaire, Sint Eustatius and Saba",
@@ -581,8 +581,8 @@
         "CurrencyNumericCode": "840",
         "CurrencySymbol": "$",
         "CurrencyName": "United States Dollar",
-        "Emoji": "🇧🇶",
-        "Unicode": "U+1F1E7 U+1F1F6"
+        "FlagEmoji": "🇧🇶",
+        "FlagUnicode": "U+1F1E7 U+1F1F6"
     },
     {
         "CountryName": "Brazil",
@@ -602,8 +602,8 @@
         "CurrencyNumericCode": "986",
         "CurrencySymbol": "$",
         "CurrencyName": "Brazilian Real",
-        "Emoji": "🇧🇷",
-        "Unicode": "U+1F1E7 U+1F1F7"
+        "FlagEmoji": "🇧🇷",
+        "FlagUnicode": "U+1F1E7 U+1F1F7"
     },
     {
         "CountryName": "Bahamas",
@@ -623,8 +623,8 @@
         "CurrencyNumericCode": "044",
         "CurrencySymbol": "$",
         "CurrencyName": "Bahamian Dollar",
-        "Emoji": "🇧🇸",
-        "Unicode": "U+1F1E7 U+1F1F8"
+        "FlagEmoji": "🇧🇸",
+        "FlagUnicode": "U+1F1E7 U+1F1F8"
     },
     {
         "CountryName": "Bhutan",
@@ -642,8 +642,8 @@
         "CurrencyNumericCode": "064",
         "CurrencySymbol": "Nu",
         "CurrencyName": "Bhutanese Ngultrum",
-        "Emoji": "🇧🇹",
-        "Unicode": "U+1F1E7 U+1F1F9"
+        "FlagEmoji": "🇧🇹",
+        "FlagUnicode": "U+1F1E7 U+1F1F9"
     },
     {
         "CountryName": "Bouvet Island",
@@ -662,8 +662,8 @@
         "CurrencyNumericCode": "578",
         "CurrencySymbol": "kr",
         "CurrencyName": "Norwegian Krone",
-        "Emoji": "🇧🇻",
-        "Unicode": "U+1F1E7 U+1F1FB"
+        "FlagEmoji": "🇧🇻",
+        "FlagUnicode": "U+1F1E7 U+1F1FB"
     },
     {
         "CountryName": "Botswana",
@@ -683,8 +683,8 @@
         "CurrencyNumericCode": "072",
         "CurrencySymbol": "P",
         "CurrencyName": "Botswana Pula",
-        "Emoji": "🇧🇼",
-        "Unicode": "U+1F1E7 U+1F1FC"
+        "FlagEmoji": "🇧🇼",
+        "FlagUnicode": "U+1F1E7 U+1F1FC"
     },
     {
         "CountryName": "Belarus",
@@ -702,8 +702,8 @@
         "CurrencyNumericCode": "933",
         "CurrencySymbol": "Br",
         "CurrencyName": "Belarusian Ruble",
-        "Emoji": "🇧🇾",
-        "Unicode": "U+1F1E7 U+1F1FE"
+        "FlagEmoji": "🇧🇾",
+        "FlagUnicode": "U+1F1E7 U+1F1FE"
     },
     {
         "CountryName": "Belize",
@@ -723,8 +723,8 @@
         "CurrencyNumericCode": "084",
         "CurrencySymbol": "$",
         "CurrencyName": "Belize Dollar",
-        "Emoji": "🇧🇿",
-        "Unicode": "U+1F1E7 U+1F1FF"
+        "FlagEmoji": "🇧🇿",
+        "FlagUnicode": "U+1F1E7 U+1F1FF"
     },
     {
         "CountryName": "Canada",
@@ -742,8 +742,8 @@
         "CurrencyNumericCode": "124",
         "CurrencySymbol": "$",
         "CurrencyName": "Canadian Dollar",
-        "Emoji": "🇨🇦",
-        "Unicode": "U+1F1E8 U+1F1E6"
+        "FlagEmoji": "🇨🇦",
+        "FlagUnicode": "U+1F1E8 U+1F1E6"
     },
     {
         "CountryName": "Cocos (Keeling) Islands",
@@ -761,8 +761,8 @@
         "CurrencyNumericCode": "036",
         "CurrencySymbol": "$",
         "CurrencyName": "Australian Dollar",
-        "Emoji": "🇨🇨",
-        "Unicode": "U+1F1E8 U+1F1E8"
+        "FlagEmoji": "🇨🇨",
+        "FlagUnicode": "U+1F1E8 U+1F1E8"
     },
     {
         "CountryName": "Congo, Democratic Republic of the",
@@ -782,8 +782,8 @@
         "CurrencyNumericCode": "976",
         "CurrencySymbol": "FC",
         "CurrencyName": "Congolese Franc",
-        "Emoji": "🇨🇩",
-        "Unicode": "U+1F1E8 U+1F1E9"
+        "FlagEmoji": "🇨🇩",
+        "FlagUnicode": "U+1F1E8 U+1F1E9"
     },
     {
         "CountryName": "Central African Republic",
@@ -803,8 +803,8 @@
         "CurrencyNumericCode": "950",
         "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BEAC",
-        "Emoji": "🇨🇫",
-        "Unicode": "U+1F1E8 U+1F1EB"
+        "FlagEmoji": "🇨🇫",
+        "FlagUnicode": "U+1F1E8 U+1F1EB"
     },
     {
         "CountryName": "Congo",
@@ -824,8 +824,8 @@
         "CurrencyNumericCode": "950",
         "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BEAC",
-        "Emoji": "🇨🇬",
-        "Unicode": "U+1F1E8 U+1F1EC"
+        "FlagEmoji": "🇨🇬",
+        "FlagUnicode": "U+1F1E8 U+1F1EC"
     },
     {
         "CountryName": "Switzerland",
@@ -843,8 +843,8 @@
         "CurrencyNumericCode": "756",
         "CurrencySymbol": "Fr",
         "CurrencyName": "Swiss Franc",
-        "Emoji": "🇨🇭",
-        "Unicode": "U+1F1E8 U+1F1ED"
+        "FlagEmoji": "🇨🇭",
+        "FlagUnicode": "U+1F1E8 U+1F1ED"
     },
     {
         "CountryName": "Côte d'Ivoire",
@@ -864,8 +864,8 @@
         "CurrencyNumericCode": "952",
         "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BCEAO",
-        "Emoji": "🇨🇮",
-        "Unicode": "U+1F1E8 U+1F1EE"
+        "FlagEmoji": "🇨🇮",
+        "FlagUnicode": "U+1F1E8 U+1F1EE"
     },
     {
         "CountryName": "Cook Islands",
@@ -883,8 +883,8 @@
         "CurrencyNumericCode": "554",
         "CurrencySymbol": "$",
         "CurrencyName": "New Zealand Dollar",
-        "Emoji": "🇨🇰",
-        "Unicode": "U+1F1E8 U+1F1F0"
+        "FlagEmoji": "🇨🇰",
+        "FlagUnicode": "U+1F1E8 U+1F1F0"
     },
     {
         "CountryName": "Chile",
@@ -904,8 +904,8 @@
         "CurrencyNumericCode": "152",
         "CurrencySymbol": "$",
         "CurrencyName": "Chilean Peso",
-        "Emoji": "🇨🇱",
-        "Unicode": "U+1F1E8 U+1F1F1"
+        "FlagEmoji": "🇨🇱",
+        "FlagUnicode": "U+1F1E8 U+1F1F1"
     },
     {
         "CountryName": "Cameroon",
@@ -925,8 +925,8 @@
         "CurrencyNumericCode": "950",
         "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BEAC",
-        "Emoji": "🇨🇲",
-        "Unicode": "U+1F1E8 U+1F1F2"
+        "FlagEmoji": "🇨🇲",
+        "FlagUnicode": "U+1F1E8 U+1F1F2"
     },
     {
         "CountryName": "China",
@@ -944,8 +944,8 @@
         "CurrencyNumericCode": "156",
         "CurrencySymbol": "¥",
         "CurrencyName": "Renminbi",
-        "Emoji": "🇨🇳",
-        "Unicode": "U+1F1E8 U+1F1F3"
+        "FlagEmoji": "🇨🇳",
+        "FlagUnicode": "U+1F1E8 U+1F1F3"
     },
     {
         "CountryName": "Colombia",
@@ -965,8 +965,8 @@
         "CurrencyNumericCode": "170",
         "CurrencySymbol": "$",
         "CurrencyName": "Colombian Peso",
-        "Emoji": "🇨🇴",
-        "Unicode": "U+1F1E8 U+1F1F4"
+        "FlagEmoji": "🇨🇴",
+        "FlagUnicode": "U+1F1E8 U+1F1F4"
     },
     {
         "CountryName": "Costa Rica",
@@ -986,8 +986,8 @@
         "CurrencyNumericCode": "188",
         "CurrencySymbol": "₡",
         "CurrencyName": "Costa Rican Colon",
-        "Emoji": "🇨🇷",
-        "Unicode": "U+1F1E8 U+1F1F7"
+        "FlagEmoji": "🇨🇷",
+        "FlagUnicode": "U+1F1E8 U+1F1F7"
     },
     {
         "CountryName": "Cuba",
@@ -1007,8 +1007,8 @@
         "CurrencyNumericCode": "192",
         "CurrencySymbol": "₱",
         "CurrencyName": "Cuban Peso",
-        "Emoji": "🇨🇺",
-        "Unicode": "U+1F1E8 U+1F1FA"
+        "FlagEmoji": "🇨🇺",
+        "FlagUnicode": "U+1F1E8 U+1F1FA"
     },
     {
         "CountryName": "Cabo Verde",
@@ -1028,8 +1028,8 @@
         "CurrencyNumericCode": "132",
         "CurrencySymbol": "$",
         "CurrencyName": "Cape Verdean Escudo",
-        "Emoji": "🇨🇻",
-        "Unicode": "U+1F1E8 U+1F1FB"
+        "FlagEmoji": "🇨🇻",
+        "FlagUnicode": "U+1F1E8 U+1F1FB"
     },
     {
         "CountryName": "Curaçao",
@@ -1049,8 +1049,8 @@
         "CurrencyNumericCode": "532",
         "CurrencySymbol": "ƒ",
         "CurrencyName": "Netherlands Antillean Guilder",
-        "Emoji": "🇨🇼",
-        "Unicode": "U+1F1E8 U+1F1FC"
+        "FlagEmoji": "🇨🇼",
+        "FlagUnicode": "U+1F1E8 U+1F1FC"
     },
     {
         "CountryName": "Christmas Island",
@@ -1068,8 +1068,8 @@
         "CurrencyNumericCode": "036",
         "CurrencySymbol": "$",
         "CurrencyName": "Australian Dollar",
-        "Emoji": "🇨🇽",
-        "Unicode": "U+1F1E8 U+1F1FD"
+        "FlagEmoji": "🇨🇽",
+        "FlagUnicode": "U+1F1E8 U+1F1FD"
     },
     {
         "CountryName": "Cyprus",
@@ -1087,8 +1087,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇨🇾",
-        "Unicode": "U+1F1E8 U+1F1FE"
+        "FlagEmoji": "🇨🇾",
+        "FlagUnicode": "U+1F1E8 U+1F1FE"
     },
     {
         "CountryName": "Czechia",
@@ -1106,8 +1106,8 @@
         "CurrencyNumericCode": "203",
         "CurrencySymbol": "Kč",
         "CurrencyName": "Czech Koruna",
-        "Emoji": "🇨🇿",
-        "Unicode": "U+1F1E8 U+1F1FF"
+        "FlagEmoji": "🇨🇿",
+        "FlagUnicode": "U+1F1E8 U+1F1FF"
     },
     {
         "CountryName": "Germany",
@@ -1125,8 +1125,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇩🇪",
-        "Unicode": "U+1F1E9 U+1F1EA"
+        "FlagEmoji": "🇩🇪",
+        "FlagUnicode": "U+1F1E9 U+1F1EA"
     },
     {
         "CountryName": "Djibouti",
@@ -1146,8 +1146,8 @@
         "CurrencyNumericCode": "262",
         "CurrencySymbol": "₣",
         "CurrencyName": "Djiboutian Franc",
-        "Emoji": "🇩🇯",
-        "Unicode": "U+1F1E9 U+1F1EF"
+        "FlagEmoji": "🇩🇯",
+        "FlagUnicode": "U+1F1E9 U+1F1EF"
     },
     {
         "CountryName": "Denmark",
@@ -1165,8 +1165,8 @@
         "CurrencyNumericCode": "208",
         "CurrencySymbol": "kr",
         "CurrencyName": "Danish Krone",
-        "Emoji": "🇩🇰",
-        "Unicode": "U+1F1E9 U+1F1F0"
+        "FlagEmoji": "🇩🇰",
+        "FlagUnicode": "U+1F1E9 U+1F1F0"
     },
     {
         "CountryName": "Dominica",
@@ -1186,8 +1186,8 @@
         "CurrencyNumericCode": "951",
         "CurrencySymbol": "$",
         "CurrencyName": "East Caribbean Dollar",
-        "Emoji": "🇩🇲",
-        "Unicode": "U+1F1E9 U+1F1F2"
+        "FlagEmoji": "🇩🇲",
+        "FlagUnicode": "U+1F1E9 U+1F1F2"
     },
     {
         "CountryName": "Dominican Republic",
@@ -1207,8 +1207,8 @@
         "CurrencyNumericCode": "214",
         "CurrencySymbol": "$",
         "CurrencyName": "Dominican Peso",
-        "Emoji": "🇩🇴",
-        "Unicode": "U+1F1E9 U+1F1F4"
+        "FlagEmoji": "🇩🇴",
+        "FlagUnicode": "U+1F1E9 U+1F1F4"
     },
     {
         "CountryName": "Algeria",
@@ -1226,8 +1226,8 @@
         "CurrencyNumericCode": "012",
         "CurrencySymbol": "د.ج",
         "CurrencyName": "Algerian Dinar",
-        "Emoji": "🇩🇿",
-        "Unicode": "U+1F1E9 U+1F1FF"
+        "FlagEmoji": "🇩🇿",
+        "FlagUnicode": "U+1F1E9 U+1F1FF"
     },
     {
         "CountryName": "Ecuador",
@@ -1247,8 +1247,8 @@
         "CurrencyNumericCode": "840",
         "CurrencySymbol": "$",
         "CurrencyName": "United States Dollar",
-        "Emoji": "🇪🇨",
-        "Unicode": "U+1F1EA U+1F1E8"
+        "FlagEmoji": "🇪🇨",
+        "FlagUnicode": "U+1F1EA U+1F1E8"
     },
     {
         "CountryName": "Estonia",
@@ -1266,8 +1266,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇪🇪",
-        "Unicode": "U+1F1EA U+1F1EA"
+        "FlagEmoji": "🇪🇪",
+        "FlagUnicode": "U+1F1EA U+1F1EA"
     },
     {
         "CountryName": "Egypt",
@@ -1285,8 +1285,8 @@
         "CurrencyNumericCode": "818",
         "CurrencySymbol": "£",
         "CurrencyName": "Egyptian Pound",
-        "Emoji": "🇪🇬",
-        "Unicode": "U+1F1EA U+1F1EC"
+        "FlagEmoji": "🇪🇬",
+        "FlagUnicode": "U+1F1EA U+1F1EC"
     },
     {
         "CountryName": "Western Sahara",
@@ -1304,8 +1304,8 @@
         "CurrencyNumericCode": "504",
         "CurrencySymbol": "DH",
         "CurrencyName": "Moroccan Dirham",
-        "Emoji": "🇪🇭",
-        "Unicode": "U+1F1EA U+1F1ED"
+        "FlagEmoji": "🇪🇭",
+        "FlagUnicode": "U+1F1EA U+1F1ED"
     },
     {
         "CountryName": "Eritrea",
@@ -1325,8 +1325,8 @@
         "CurrencyNumericCode": "232",
         "CurrencySymbol": "Nfa",
         "CurrencyName": "Eritrean Nakfa",
-        "Emoji": "🇪🇷",
-        "Unicode": "U+1F1EA U+1F1F7"
+        "FlagEmoji": "🇪🇷",
+        "FlagUnicode": "U+1F1EA U+1F1F7"
     },
     {
         "CountryName": "Spain",
@@ -1344,8 +1344,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇪🇸",
-        "Unicode": "U+1F1EA U+1F1F8"
+        "FlagEmoji": "🇪🇸",
+        "FlagUnicode": "U+1F1EA U+1F1F8"
     },
     {
         "CountryName": "Ethiopia",
@@ -1365,8 +1365,8 @@
         "CurrencyNumericCode": "230",
         "CurrencySymbol": "Br",
         "CurrencyName": "Ethiopian Birr",
-        "Emoji": "🇪🇹",
-        "Unicode": "U+1F1EA U+1F1F9"
+        "FlagEmoji": "🇪🇹",
+        "FlagUnicode": "U+1F1EA U+1F1F9"
     },
     {
         "CountryName": "Finland",
@@ -1384,8 +1384,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇫🇮",
-        "Unicode": "U+1F1EB U+1F1EE"
+        "FlagEmoji": "🇫🇮",
+        "FlagUnicode": "U+1F1EB U+1F1EE"
     },
     {
         "CountryName": "Fiji",
@@ -1403,8 +1403,8 @@
         "CurrencyNumericCode": "242",
         "CurrencySymbol": "$",
         "CurrencyName": "Fiji Dollar",
-        "Emoji": "🇫🇯",
-        "Unicode": "U+1F1EB U+1F1EF"
+        "FlagEmoji": "🇫🇯",
+        "FlagUnicode": "U+1F1EB U+1F1EF"
     },
     {
         "CountryName": "Falkland Islands (Malvinas)",
@@ -1424,8 +1424,8 @@
         "CurrencyNumericCode": "238",
         "CurrencySymbol": "£",
         "CurrencyName": "Falkland Islands Pound",
-        "Emoji": "🇫🇰",
-        "Unicode": "U+1F1EB U+1F1F0"
+        "FlagEmoji": "🇫🇰",
+        "FlagUnicode": "U+1F1EB U+1F1F0"
     },
     {
         "CountryName": "Micronesia (Federated States of)",
@@ -1443,8 +1443,8 @@
         "CurrencyNumericCode": "840",
         "CurrencySymbol": "$",
         "CurrencyName": "United States Dollar",
-        "Emoji": "🇫🇲",
-        "Unicode": "U+1F1EB U+1F1F2"
+        "FlagEmoji": "🇫🇲",
+        "FlagUnicode": "U+1F1EB U+1F1F2"
     },
     {
         "CountryName": "Faroe Islands",
@@ -1462,8 +1462,8 @@
         "CurrencyNumericCode": "208",
         "CurrencySymbol": "kr",
         "CurrencyName": "Danish Krone",
-        "Emoji": "🇫🇴",
-        "Unicode": "U+1F1EB U+1F1F4"
+        "FlagEmoji": "🇫🇴",
+        "FlagUnicode": "U+1F1EB U+1F1F4"
     },
     {
         "CountryName": "France",
@@ -1481,8 +1481,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇫🇷",
-        "Unicode": "U+1F1EB U+1F1F7"
+        "FlagEmoji": "🇫🇷",
+        "FlagUnicode": "U+1F1EB U+1F1F7"
     },
     {
         "CountryName": "Gabon",
@@ -1502,8 +1502,8 @@
         "CurrencyNumericCode": "950",
         "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BEAC",
-        "Emoji": "🇬🇦",
-        "Unicode": "U+1F1EC U+1F1E6"
+        "FlagEmoji": "🇬🇦",
+        "FlagUnicode": "U+1F1EC U+1F1E6"
     },
     {
         "CountryName": "United Kingdom of Great Britain and Northern Ireland",
@@ -1521,8 +1521,8 @@
         "CurrencyNumericCode": "826",
         "CurrencySymbol": "£",
         "CurrencyName": "Pound Sterling",
-        "Emoji": "🇬🇧",
-        "Unicode": "U+1F1EC U+1F1E7"
+        "FlagEmoji": "🇬🇧",
+        "FlagUnicode": "U+1F1EC U+1F1E7"
     },
     {
         "CountryName": "Grenada",
@@ -1542,8 +1542,8 @@
         "CurrencyNumericCode": "951",
         "CurrencySymbol": "$",
         "CurrencyName": "East Caribbean Dollar",
-        "Emoji": "🇬🇩",
-        "Unicode": "U+1F1EC U+1F1E9"
+        "FlagEmoji": "🇬🇩",
+        "FlagUnicode": "U+1F1EC U+1F1E9"
     },
     {
         "CountryName": "Georgia",
@@ -1561,8 +1561,8 @@
         "CurrencyNumericCode": "981",
         "CurrencySymbol": "₾",
         "CurrencyName": "Georgian Lari",
-        "Emoji": "🇬🇪",
-        "Unicode": "U+1F1EC U+1F1EA"
+        "FlagEmoji": "🇬🇪",
+        "FlagUnicode": "U+1F1EC U+1F1EA"
     },
     {
         "CountryName": "French Guiana",
@@ -1582,8 +1582,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇬🇫",
-        "Unicode": "U+1F1EC U+1F1EB"
+        "FlagEmoji": "🇬🇫",
+        "FlagUnicode": "U+1F1EC U+1F1EB"
     },
     {
         "CountryName": "Guernsey",
@@ -1601,8 +1601,8 @@
         "CurrencyNumericCode": "826",
         "CurrencySymbol": "£",
         "CurrencyName": "Pound Sterling",
-        "Emoji": "🇬🇬",
-        "Unicode": "U+1F1EC U+1F1EC"
+        "FlagEmoji": "🇬🇬",
+        "FlagUnicode": "U+1F1EC U+1F1EC"
     },
     {
         "CountryName": "Ghana",
@@ -1622,8 +1622,8 @@
         "CurrencyNumericCode": "936",
         "CurrencySymbol": "₵",
         "CurrencyName": "Ghanaian Cedi",
-        "Emoji": "🇬🇭",
-        "Unicode": "U+1F1EC U+1F1ED"
+        "FlagEmoji": "🇬🇭",
+        "FlagUnicode": "U+1F1EC U+1F1ED"
     },
     {
         "CountryName": "Gibraltar",
@@ -1641,8 +1641,8 @@
         "CurrencyNumericCode": "292",
         "CurrencySymbol": "£",
         "CurrencyName": "Gibraltar Pound",
-        "Emoji": "🇬🇮",
-        "Unicode": "U+1F1EC U+1F1EE"
+        "FlagEmoji": "🇬🇮",
+        "FlagUnicode": "U+1F1EC U+1F1EE"
     },
     {
         "CountryName": "Greenland",
@@ -1660,8 +1660,8 @@
         "CurrencyNumericCode": "208",
         "CurrencySymbol": "kr",
         "CurrencyName": "Danish Krone",
-        "Emoji": "🇬🇱",
-        "Unicode": "U+1F1EC U+1F1F1"
+        "FlagEmoji": "🇬🇱",
+        "FlagUnicode": "U+1F1EC U+1F1F1"
     },
     {
         "CountryName": "Gambia",
@@ -1681,8 +1681,8 @@
         "CurrencyNumericCode": "270",
         "CurrencySymbol": "D",
         "CurrencyName": "Gambian Dalasi",
-        "Emoji": "🇬🇲",
-        "Unicode": "U+1F1EC U+1F1F2"
+        "FlagEmoji": "🇬🇲",
+        "FlagUnicode": "U+1F1EC U+1F1F2"
     },
     {
         "CountryName": "Guinea",
@@ -1702,8 +1702,8 @@
         "CurrencyNumericCode": "324",
         "CurrencySymbol": "FG",
         "CurrencyName": "Guinean Franc",
-        "Emoji": "🇬🇳",
-        "Unicode": "U+1F1EC U+1F1F3"
+        "FlagEmoji": "🇬🇳",
+        "FlagUnicode": "U+1F1EC U+1F1F3"
     },
     {
         "CountryName": "Guadeloupe",
@@ -1723,8 +1723,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇬🇵",
-        "Unicode": "U+1F1EC U+1F1F5"
+        "FlagEmoji": "🇬🇵",
+        "FlagUnicode": "U+1F1EC U+1F1F5"
     },
     {
         "CountryName": "Equatorial Guinea",
@@ -1744,8 +1744,8 @@
         "CurrencyNumericCode": "950",
         "CurrencySymbol": "£",
         "CurrencyName": "CFA Franc BEAC",
-        "Emoji": "🇬🇶",
-        "Unicode": "U+1F1EC U+1F1F6"
+        "FlagEmoji": "🇬🇶",
+        "FlagUnicode": "U+1F1EC U+1F1F6"
     },
     {
         "CountryName": "Greece",
@@ -1763,8 +1763,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇬🇷",
-        "Unicode": "U+1F1EC U+1F1F7"
+        "FlagEmoji": "🇬🇷",
+        "FlagUnicode": "U+1F1EC U+1F1F7"
     },
     {
         "CountryName": "South Georgia and the South Sandwich Islands",
@@ -1784,8 +1784,8 @@
         "CurrencyNumericCode": "826",
         "CurrencySymbol": "£",
         "CurrencyName": "Pound Sterling",
-        "Emoji": "🇬🇸",
-        "Unicode": "U+1F1EC U+1F1F8"
+        "FlagEmoji": "🇬🇸",
+        "FlagUnicode": "U+1F1EC U+1F1F8"
     },
     {
         "CountryName": "Guatemala",
@@ -1805,8 +1805,8 @@
         "CurrencyNumericCode": "320",
         "CurrencySymbol": "Q",
         "CurrencyName": "Guatemalan Quetzal",
-        "Emoji": "🇬🇹",
-        "Unicode": "U+1F1EC U+1F1F9"
+        "FlagEmoji": "🇬🇹",
+        "FlagUnicode": "U+1F1EC U+1F1F9"
     },
     {
         "CountryName": "Guam",
@@ -1824,8 +1824,8 @@
         "CurrencyNumericCode": "840",
         "CurrencySymbol": "$",
         "CurrencyName": "United States Dollar",
-        "Emoji": "🇬🇺",
-        "Unicode": "U+1F1EC U+1F1FA"
+        "FlagEmoji": "🇬🇺",
+        "FlagUnicode": "U+1F1EC U+1F1FA"
     },
     {
         "CountryName": "Guinea-Bissau",
@@ -1845,8 +1845,8 @@
         "CurrencyNumericCode": "952",
         "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BCEAO",
-        "Emoji": "🇬🇼",
-        "Unicode": "U+1F1EC U+1F1FC"
+        "FlagEmoji": "🇬🇼",
+        "FlagUnicode": "U+1F1EC U+1F1FC"
     },
     {
         "CountryName": "Guyana",
@@ -1866,8 +1866,8 @@
         "CurrencyNumericCode": "328",
         "CurrencySymbol": "$",
         "CurrencyName": "Guyanese Dollar",
-        "Emoji": "🇬🇾",
-        "Unicode": "U+1F1EC U+1F1FE"
+        "FlagEmoji": "🇬🇾",
+        "FlagUnicode": "U+1F1EC U+1F1FE"
     },
     {
         "CountryName": "Hong Kong",
@@ -1885,8 +1885,8 @@
         "CurrencyNumericCode": "344",
         "CurrencySymbol": "$",
         "CurrencyName": "Hong Kong Dollar",
-        "Emoji": "🇭🇰",
-        "Unicode": "U+1F1ED U+1F1F0"
+        "FlagEmoji": "🇭🇰",
+        "FlagUnicode": "U+1F1ED U+1F1F0"
     },
     {
         "CountryName": "Heard Island and McDonald Islands",
@@ -1903,8 +1903,8 @@
         "CurrencyNumericCode": "036",
         "CurrencySymbol": "$",
         "CurrencyName": "Australian Dollar",
-        "Emoji": "🇭🇲",
-        "Unicode": "U+1F1ED U+1F1F2"
+        "FlagEmoji": "🇭🇲",
+        "FlagUnicode": "U+1F1ED U+1F1F2"
     },
     {
         "CountryName": "Honduras",
@@ -1924,8 +1924,8 @@
         "CurrencyNumericCode": "340",
         "CurrencySymbol": "L",
         "CurrencyName": "Honduran Lempira",
-        "Emoji": "🇭🇳",
-        "Unicode": "U+1F1ED U+1F1F3"
+        "FlagEmoji": "🇭🇳",
+        "FlagUnicode": "U+1F1ED U+1F1F3"
     },
     {
         "CountryName": "Croatia",
@@ -1943,8 +1943,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇭🇷",
-        "Unicode": "U+1F1ED U+1F1F7"
+        "FlagEmoji": "🇭🇷",
+        "FlagUnicode": "U+1F1ED U+1F1F7"
     },
     {
         "CountryName": "Haiti",
@@ -1964,8 +1964,8 @@
         "CurrencyNumericCode": "332",
         "CurrencySymbol": "$",
         "CurrencyName": "Haitian Gourde",
-        "Emoji": "🇭🇹",
-        "Unicode": "U+1F1ED U+1F1F9"
+        "FlagEmoji": "🇭🇹",
+        "FlagUnicode": "U+1F1ED U+1F1F9"
     },
     {
         "CountryName": "Hungary",
@@ -1983,8 +1983,8 @@
         "CurrencyNumericCode": "348",
         "CurrencySymbol": "Ft",
         "CurrencyName": "Hungarian Forint",
-        "Emoji": "🇭🇺",
-        "Unicode": "U+1F1ED U+1F1FA"
+        "FlagEmoji": "🇭🇺",
+        "FlagUnicode": "U+1F1ED U+1F1FA"
     },
     {
         "CountryName": "Indonesia",
@@ -2002,8 +2002,8 @@
         "CurrencyNumericCode": "360",
         "CurrencySymbol": "Rp",
         "CurrencyName": "Indonesian Rupiah",
-        "Emoji": "🇮🇩",
-        "Unicode": "U+1F1EE U+1F1E9"
+        "FlagEmoji": "🇮🇩",
+        "FlagUnicode": "U+1F1EE U+1F1E9"
     },
     {
         "CountryName": "Ireland",
@@ -2021,8 +2021,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇮🇪",
-        "Unicode": "U+1F1EE U+1F1EA"
+        "FlagEmoji": "🇮🇪",
+        "FlagUnicode": "U+1F1EE U+1F1EA"
     },
     {
         "CountryName": "Israel",
@@ -2040,8 +2040,8 @@
         "CurrencyNumericCode": "376",
         "CurrencySymbol": "₪",
         "CurrencyName": "Israeli New Shekel",
-        "Emoji": "🇮🇱",
-        "Unicode": "U+1F1EE U+1F1F1"
+        "FlagEmoji": "🇮🇱",
+        "FlagUnicode": "U+1F1EE U+1F1F1"
     },
     {
         "CountryName": "Isle of Man",
@@ -2059,8 +2059,8 @@
         "CurrencyNumericCode": "826",
         "CurrencySymbol": "£",
         "CurrencyName": "Pound Sterling",
-        "Emoji": "🇮🇲",
-        "Unicode": "U+1F1EE U+1F1F2"
+        "FlagEmoji": "🇮🇲",
+        "FlagUnicode": "U+1F1EE U+1F1F2"
     },
     {
         "CountryName": "India",
@@ -2078,8 +2078,8 @@
         "CurrencyNumericCode": "356",
         "CurrencySymbol": "₹",
         "CurrencyName": "Indian Rupee",
-        "Emoji": "🇮🇳",
-        "Unicode": "U+1F1EE U+1F1F3"
+        "FlagEmoji": "🇮🇳",
+        "FlagUnicode": "U+1F1EE U+1F1F3"
     },
     {
         "CountryName": "British Indian Ocean Territory",
@@ -2099,8 +2099,8 @@
         "CurrencyNumericCode": "840",
         "CurrencySymbol": "$",
         "CurrencyName": "United States Dollar",
-        "Emoji": "🇮🇴",
-        "Unicode": "U+1F1EE U+1F1F4"
+        "FlagEmoji": "🇮🇴",
+        "FlagUnicode": "U+1F1EE U+1F1F4"
     },
     {
         "CountryName": "Iraq",
@@ -2118,8 +2118,8 @@
         "CurrencyNumericCode": "368",
         "CurrencySymbol": "د.ع",
         "CurrencyName": "Iraqi Dinar",
-        "Emoji": "🇮🇶",
-        "Unicode": "U+1F1EE U+1F1F6"
+        "FlagEmoji": "🇮🇶",
+        "FlagUnicode": "U+1F1EE U+1F1F6"
     },
     {
         "CountryName": "Iran (Islamic Republic of)",
@@ -2137,8 +2137,8 @@
         "CurrencyNumericCode": "364",
         "CurrencySymbol": "﷼",
         "CurrencyName": "Iranian Rial",
-        "Emoji": "🇮🇷",
-        "Unicode": "U+1F1EE U+1F1F7"
+        "FlagEmoji": "🇮🇷",
+        "FlagUnicode": "U+1F1EE U+1F1F7"
     },
     {
         "CountryName": "Iceland",
@@ -2156,8 +2156,8 @@
         "CurrencyNumericCode": "352",
         "CurrencySymbol": "kr",
         "CurrencyName": "Icelandic Króna",
-        "Emoji": "🇮🇸",
-        "Unicode": "U+1F1EE U+1F1F8"
+        "FlagEmoji": "🇮🇸",
+        "FlagUnicode": "U+1F1EE U+1F1F8"
     },
     {
         "CountryName": "Italy",
@@ -2175,8 +2175,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇮🇹",
-        "Unicode": "U+1F1EE U+1F1F9"
+        "FlagEmoji": "🇮🇹",
+        "FlagUnicode": "U+1F1EE U+1F1F9"
     },
     {
         "CountryName": "Jersey",
@@ -2194,8 +2194,8 @@
         "CurrencyNumericCode": "826",
         "CurrencySymbol": "£",
         "CurrencyName": "Pound Sterling",
-        "Emoji": "🇯🇪",
-        "Unicode": "U+1F1EF U+1F1EA"
+        "FlagEmoji": "🇯🇪",
+        "FlagUnicode": "U+1F1EF U+1F1EA"
     },
     {
         "CountryName": "Jamaica",
@@ -2215,8 +2215,8 @@
         "CurrencyNumericCode": "388",
         "CurrencySymbol": "$",
         "CurrencyName": "Jamaican Dollar",
-        "Emoji": "🇯🇲",
-        "Unicode": "U+1F1EF U+1F1F2"
+        "FlagEmoji": "🇯🇲",
+        "FlagUnicode": "U+1F1EF U+1F1F2"
     },
     {
         "CountryName": "Jordan",
@@ -2234,8 +2234,8 @@
         "CurrencyNumericCode": "400",
         "CurrencySymbol": "ينار",
         "CurrencyName": "Jordanian Dinar",
-        "Emoji": "🇯🇴",
-        "Unicode": "U+1F1EF U+1F1F4"
+        "FlagEmoji": "🇯🇴",
+        "FlagUnicode": "U+1F1EF U+1F1F4"
     },
     {
         "CountryName": "Japan",
@@ -2253,8 +2253,8 @@
         "CurrencyNumericCode": "392",
         "CurrencySymbol": "¥",
         "CurrencyName": "Japanese Yen",
-        "Emoji": "🇯🇵",
-        "Unicode": "U+1F1EF U+1F1F5"
+        "FlagEmoji": "🇯🇵",
+        "FlagUnicode": "U+1F1EF U+1F1F5"
     },
     {
         "CountryName": "Kenya",
@@ -2274,8 +2274,8 @@
         "CurrencyNumericCode": "404",
         "CurrencySymbol": "KSh",
         "CurrencyName": "Kenyan Shilling",
-        "Emoji": "🇰🇪",
-        "Unicode": "U+1F1F0 U+1F1EA"
+        "FlagEmoji": "🇰🇪",
+        "FlagUnicode": "U+1F1F0 U+1F1EA"
     },
     {
         "CountryName": "Kyrgyzstan",
@@ -2293,8 +2293,8 @@
         "CurrencyNumericCode": "417",
         "CurrencySymbol": "лв",
         "CurrencyName": "Kyrgyzstani Som",
-        "Emoji": "🇰🇬",
-        "Unicode": "U+1F1F0 U+1F1EC"
+        "FlagEmoji": "🇰🇬",
+        "FlagUnicode": "U+1F1F0 U+1F1EC"
     },
     {
         "CountryName": "Cambodia",
@@ -2312,8 +2312,8 @@
         "CurrencyNumericCode": "116",
         "CurrencySymbol": "៛",
         "CurrencyName": "Cambodian Riel",
-        "Emoji": "🇰🇭",
-        "Unicode": "U+1F1F0 U+1F1ED"
+        "FlagEmoji": "🇰🇭",
+        "FlagUnicode": "U+1F1F0 U+1F1ED"
     },
     {
         "CountryName": "Kiribati",
@@ -2331,8 +2331,8 @@
         "CurrencyNumericCode": "036",
         "CurrencySymbol": "$",
         "CurrencyName": "Australian Dollar",
-        "Emoji": "🇰🇮",
-        "Unicode": "U+1F1F0 U+1F1EE"
+        "FlagEmoji": "🇰🇮",
+        "FlagUnicode": "U+1F1F0 U+1F1EE"
     },
     {
         "CountryName": "Comoros",
@@ -2352,8 +2352,8 @@
         "CurrencyNumericCode": "174",
         "CurrencySymbol": "CF",
         "CurrencyName": "Comorian franc",
-        "Emoji": "🇰🇲",
-        "Unicode": "U+1F1F0 U+1F1F2"
+        "FlagEmoji": "🇰🇲",
+        "FlagUnicode": "U+1F1F0 U+1F1F2"
     },
     {
         "CountryName": "Saint Kitts and Nevis",
@@ -2373,8 +2373,8 @@
         "CurrencyNumericCode": "951",
         "CurrencySymbol": "$",
         "CurrencyName": "East Caribbean Dollar",
-        "Emoji": "🇰🇳",
-        "Unicode": "U+1F1F0 U+1F1F3"
+        "FlagEmoji": "🇰🇳",
+        "FlagUnicode": "U+1F1F0 U+1F1F3"
     },
     {
         "CountryName": "Korea (Democratic People's Republic of)",
@@ -2392,8 +2392,8 @@
         "CurrencyNumericCode": "408",
         "CurrencySymbol": "₩",
         "CurrencyName": "North Korean Won",
-        "Emoji": "🇰🇵",
-        "Unicode": "U+1F1F0 U+1F1F5"
+        "FlagEmoji": "🇰🇵",
+        "FlagUnicode": "U+1F1F0 U+1F1F5"
     },
     {
         "CountryName": "Korea, Republic of",
@@ -2411,8 +2411,8 @@
         "CurrencyNumericCode": "410",
         "CurrencySymbol": "₩",
         "CurrencyName": "South Korean Won",
-        "Emoji": "🇰🇷",
-        "Unicode": "U+1F1F0 U+1F1F7"
+        "FlagEmoji": "🇰🇷",
+        "FlagUnicode": "U+1F1F0 U+1F1F7"
     },
     {
         "CountryName": "Kuwait",
@@ -2430,8 +2430,8 @@
         "CurrencyNumericCode": "414",
         "CurrencySymbol": "ك",
         "CurrencyName": "Kuwaiti Dinar",
-        "Emoji": "🇰🇼",
-        "Unicode": "U+1F1F0 U+1F1FC"
+        "FlagEmoji": "🇰🇼",
+        "FlagUnicode": "U+1F1F0 U+1F1FC"
     },
     {
         "CountryName": "Cayman Islands",
@@ -2451,8 +2451,8 @@
         "CurrencyNumericCode": "136",
         "CurrencySymbol": "$",
         "CurrencyName": "Cayman Islands Dollar",
-        "Emoji": "🇰🇾",
-        "Unicode": "U+1F1F0 U+1F1FE"
+        "FlagEmoji": "🇰🇾",
+        "FlagUnicode": "U+1F1F0 U+1F1FE"
     },
     {
         "CountryName": "Kazakhstan",
@@ -2470,8 +2470,8 @@
         "CurrencyNumericCode": "398",
         "CurrencySymbol": "T",
         "CurrencyName": "Kazakhstani Tenge",
-        "Emoji": "🇰🇿",
-        "Unicode": "U+1F1F0 U+1F1FF"
+        "FlagEmoji": "🇰🇿",
+        "FlagUnicode": "U+1F1F0 U+1F1FF"
     },
     {
         "CountryName": "Lao People's Democratic Republic",
@@ -2489,8 +2489,8 @@
         "CurrencyNumericCode": "418",
         "CurrencySymbol": "₭",
         "CurrencyName": "Lao Kip",
-        "Emoji": "🇱🇦",
-        "Unicode": "U+1F1F1 U+1F1E6"
+        "FlagEmoji": "🇱🇦",
+        "FlagUnicode": "U+1F1F1 U+1F1E6"
     },
     {
         "CountryName": "Lebanon",
@@ -2508,8 +2508,8 @@
         "CurrencyNumericCode": "422",
         "CurrencySymbol": "£",
         "CurrencyName": "Lebanese Pound",
-        "Emoji": "🇱🇧",
-        "Unicode": "U+1F1F1 U+1F1E7"
+        "FlagEmoji": "🇱🇧",
+        "FlagUnicode": "U+1F1F1 U+1F1E7"
     },
     {
         "CountryName": "Saint Lucia",
@@ -2529,8 +2529,8 @@
         "CurrencyNumericCode": "951",
         "CurrencySymbol": "$",
         "CurrencyName": "East Caribbean Dollar",
-        "Emoji": "🇱🇨",
-        "Unicode": "U+1F1F1 U+1F1E8"
+        "FlagEmoji": "🇱🇨",
+        "FlagUnicode": "U+1F1F1 U+1F1E8"
     },
     {
         "CountryName": "Liechtenstein",
@@ -2548,8 +2548,8 @@
         "CurrencyNumericCode": "756",
         "CurrencySymbol": "CHF",
         "CurrencyName": "Swiss Franc",
-        "Emoji": "🇱🇮",
-        "Unicode": "U+1F1F1 U+1F1EE"
+        "FlagEmoji": "🇱🇮",
+        "FlagUnicode": "U+1F1F1 U+1F1EE"
     },
     {
         "CountryName": "Sri Lanka",
@@ -2567,8 +2567,8 @@
         "CurrencyNumericCode": "144",
         "CurrencySymbol": "₨",
         "CurrencyName": "Sri Lankan Rupee",
-        "Emoji": "🇱🇰",
-        "Unicode": "U+1F1F1 U+1F1F0"
+        "FlagEmoji": "🇱🇰",
+        "FlagUnicode": "U+1F1F1 U+1F1F0"
     },
     {
         "CountryName": "Liberia",
@@ -2588,8 +2588,8 @@
         "CurrencyNumericCode": "430",
         "CurrencySymbol": "$",
         "CurrencyName": "Liberian Dollar",
-        "Emoji": "🇱🇷",
-        "Unicode": "U+1F1F1 U+1F1F7"
+        "FlagEmoji": "🇱🇷",
+        "FlagUnicode": "U+1F1F1 U+1F1F7"
     },
     {
         "CountryName": "Lesotho",
@@ -2609,8 +2609,8 @@
         "CurrencyNumericCode": "426",
         "CurrencySymbol": "L",
         "CurrencyName": "Lesotho Loti",
-        "Emoji": "🇱🇸",
-        "Unicode": "U+1F1F1 U+1F1F8"
+        "FlagEmoji": "🇱🇸",
+        "FlagUnicode": "U+1F1F1 U+1F1F8"
     },
     {
         "CountryName": "Lithuania",
@@ -2628,8 +2628,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇱🇹",
-        "Unicode": "U+1F1F1 U+1F1F9"
+        "FlagEmoji": "🇱🇹",
+        "FlagUnicode": "U+1F1F1 U+1F1F9"
     },
     {
         "CountryName": "Luxembourg",
@@ -2647,8 +2647,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇱🇺",
-        "Unicode": "U+1F1F1 U+1F1FA"
+        "FlagEmoji": "🇱🇺",
+        "FlagUnicode": "U+1F1F1 U+1F1FA"
     },
     {
         "CountryName": "Latvia",
@@ -2666,8 +2666,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇱🇻",
-        "Unicode": "U+1F1F1 U+1F1FB"
+        "FlagEmoji": "🇱🇻",
+        "FlagUnicode": "U+1F1F1 U+1F1FB"
     },
     {
         "CountryName": "Libya",
@@ -2685,8 +2685,8 @@
         "CurrencyNumericCode": "434",
         "CurrencySymbol": "ل.د",
         "CurrencyName": "Libyan Dinar",
-        "Emoji": "🇱🇾",
-        "Unicode": "U+1F1F1 U+1F1FE"
+        "FlagEmoji": "🇱🇾",
+        "FlagUnicode": "U+1F1F1 U+1F1FE"
     },
     {
         "CountryName": "Morocco",
@@ -2704,8 +2704,8 @@
         "CurrencyNumericCode": "504",
         "CurrencySymbol": "د.م",
         "CurrencyName": "Moroccan Dirham",
-        "Emoji": "🇲🇦",
-        "Unicode": "U+1F1F2 U+1F1E6"
+        "FlagEmoji": "🇲🇦",
+        "FlagUnicode": "U+1F1F2 U+1F1E6"
     },
     {
         "CountryName": "Monaco",
@@ -2723,8 +2723,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇲🇨",
-        "Unicode": "U+1F1F2 U+1F1E8"
+        "FlagEmoji": "🇲🇨",
+        "FlagUnicode": "U+1F1F2 U+1F1E8"
     },
     {
         "CountryName": "Moldova, Republic of",
@@ -2742,8 +2742,8 @@
         "CurrencyNumericCode": "498",
         "CurrencySymbol": "L",
         "CurrencyName": "Moldovan Leu",
-        "Emoji": "🇲🇩",
-        "Unicode": "U+1F1F2 U+1F1E9"
+        "FlagEmoji": "🇲🇩",
+        "FlagUnicode": "U+1F1F2 U+1F1E9"
     },
     {
         "CountryName": "Montenegro",
@@ -2761,8 +2761,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇲🇪",
-        "Unicode": "U+1F1F2 U+1F1EA"
+        "FlagEmoji": "🇲🇪",
+        "FlagUnicode": "U+1F1F2 U+1F1EA"
     },
     {
         "CountryName": "Saint Martin (French part)",
@@ -2782,8 +2782,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇲🇫",
-        "Unicode": "U+1F1F2 U+1F1EB"
+        "FlagEmoji": "🇲🇫",
+        "FlagUnicode": "U+1F1F2 U+1F1EB"
     },
     {
         "CountryName": "Madagascar",
@@ -2803,8 +2803,8 @@
         "CurrencyNumericCode": "969",
         "CurrencySymbol": "Ar",
         "CurrencyName": "Malagasy Aariary",
-        "Emoji": "🇲🇬",
-        "Unicode": "U+1F1F2 U+1F1EC"
+        "FlagEmoji": "🇲🇬",
+        "FlagUnicode": "U+1F1F2 U+1F1EC"
     },
     {
         "CountryName": "Marshall Islands",
@@ -2822,8 +2822,8 @@
         "CurrencyNumericCode": "840",
         "CurrencySymbol": "$",
         "CurrencyName": "United States Dollar",
-        "Emoji": "🇲🇭",
-        "Unicode": "U+1F1F2 U+1F1ED"
+        "FlagEmoji": "🇲🇭",
+        "FlagUnicode": "U+1F1F2 U+1F1ED"
     },
     {
         "CountryName": "North Macedonia",
@@ -2841,8 +2841,8 @@
         "CurrencyNumericCode": "807",
         "CurrencySymbol": "ден",
         "CurrencyName": "Macedonian Denar",
-        "Emoji": "🇲🇰",
-        "Unicode": "U+1F1F2 U+1F1F0"
+        "FlagEmoji": "🇲🇰",
+        "FlagUnicode": "U+1F1F2 U+1F1F0"
     },
     {
         "CountryName": "Mali",
@@ -2862,8 +2862,8 @@
         "CurrencyNumericCode": "952",
         "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BCEAO",
-        "Emoji": "🇲🇱",
-        "Unicode": "U+1F1F2 U+1F1F1"
+        "FlagEmoji": "🇲🇱",
+        "FlagUnicode": "U+1F1F2 U+1F1F1"
     },
     {
         "CountryName": "Myanmar",
@@ -2881,8 +2881,8 @@
         "CurrencyNumericCode": "104",
         "CurrencySymbol": "K",
         "CurrencyName": "Myanmar Kyat",
-        "Emoji": "🇲🇲",
-        "Unicode": "U+1F1F2 U+1F1F2"
+        "FlagEmoji": "🇲🇲",
+        "FlagUnicode": "U+1F1F2 U+1F1F2"
     },
     {
         "CountryName": "Mongolia",
@@ -2900,8 +2900,8 @@
         "CurrencyNumericCode": "496",
         "CurrencySymbol": "₮",
         "CurrencyName": "Mongolian Tögrög",
-        "Emoji": "🇲🇳",
-        "Unicode": "U+1F1F2 U+1F1F3"
+        "FlagEmoji": "🇲🇳",
+        "FlagUnicode": "U+1F1F2 U+1F1F3"
     },
     {
         "CountryName": "Macao",
@@ -2918,8 +2918,8 @@
         "CurrencyNumericCode": "446",
         "CurrencySymbol": "$",
         "CurrencyName": "Macanese Pataca",
-        "Emoji": "🇲🇴",
-        "Unicode": "U+1F1F2 U+1F1F4"
+        "FlagEmoji": "🇲🇴",
+        "FlagUnicode": "U+1F1F2 U+1F1F4"
     },
     {
         "CountryName": "Northern Mariana Islands",
@@ -2937,8 +2937,8 @@
         "CurrencyNumericCode": "840",
         "CurrencySymbol": "$",
         "CurrencyName": "United States Dollar",
-        "Emoji": "🇲🇵",
-        "Unicode": "U+1F1F2 U+1F1F5"
+        "FlagEmoji": "🇲🇵",
+        "FlagUnicode": "U+1F1F2 U+1F1F5"
     },
     {
         "CountryName": "Martinique",
@@ -2958,8 +2958,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇲🇶",
-        "Unicode": "U+1F1F2 U+1F1F6"
+        "FlagEmoji": "🇲🇶",
+        "FlagUnicode": "U+1F1F2 U+1F1F6"
     },
     {
         "CountryName": "Mauritania",
@@ -2979,8 +2979,8 @@
         "CurrencyNumericCode": "929",
         "CurrencySymbol": "UM",
         "CurrencyName": "Mauritanian Ouguiya",
-        "Emoji": "🇲🇷",
-        "Unicode": "U+1F1F2 U+1F1F7"
+        "FlagEmoji": "🇲🇷",
+        "FlagUnicode": "U+1F1F2 U+1F1F7"
     },
     {
         "CountryName": "Montserrat",
@@ -3000,8 +3000,8 @@
         "CurrencyNumericCode": "951",
         "CurrencySymbol": "$",
         "CurrencyName": "East Caribbean Dollar",
-        "Emoji": "🇲🇸",
-        "Unicode": "U+1F1F2 U+1F1F8"
+        "FlagEmoji": "🇲🇸",
+        "FlagUnicode": "U+1F1F2 U+1F1F8"
     },
     {
         "CountryName": "Malta",
@@ -3019,8 +3019,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇲🇹",
-        "Unicode": "U+1F1F2 U+1F1F9"
+        "FlagEmoji": "🇲🇹",
+        "FlagUnicode": "U+1F1F2 U+1F1F9"
     },
     {
         "CountryName": "Mauritius",
@@ -3040,8 +3040,8 @@
         "CurrencyNumericCode": "480",
         "CurrencySymbol": "₨",
         "CurrencyName": "Mauritian Rupee",
-        "Emoji": "🇲🇺",
-        "Unicode": "U+1F1F2 U+1F1FA"
+        "FlagEmoji": "🇲🇺",
+        "FlagUnicode": "U+1F1F2 U+1F1FA"
     },
     {
         "CountryName": "Maldives",
@@ -3059,8 +3059,8 @@
         "CurrencyNumericCode": "462",
         "CurrencySymbol": "ރ",
         "CurrencyName": "Maldivian Rufiyaa",
-        "Emoji": "🇲🇻",
-        "Unicode": "U+1F1F2 U+1F1FB"
+        "FlagEmoji": "🇲🇻",
+        "FlagUnicode": "U+1F1F2 U+1F1FB"
     },
     {
         "CountryName": "Malawi",
@@ -3080,8 +3080,8 @@
         "CurrencyNumericCode": "454",
         "CurrencySymbol": "MK",
         "CurrencyName": "Malawian Kwacha",
-        "Emoji": "🇲🇼",
-        "Unicode": "U+1F1F2 U+1F1FC"
+        "FlagEmoji": "🇲🇼",
+        "FlagUnicode": "U+1F1F2 U+1F1FC"
     },
     {
         "CountryName": "Mexico",
@@ -3101,8 +3101,8 @@
         "CurrencyNumericCode": "484",
         "CurrencySymbol": "$",
         "CurrencyName": "Mexican Peso",
-        "Emoji": "🇲🇽",
-        "Unicode": "U+1F1F2 U+1F1FD"
+        "FlagEmoji": "🇲🇽",
+        "FlagUnicode": "U+1F1F2 U+1F1FD"
     },
     {
         "CountryName": "Malaysia",
@@ -3120,8 +3120,8 @@
         "CurrencyNumericCode": "458",
         "CurrencySymbol": "RM",
         "CurrencyName": "Malaysian Ringgit",
-        "Emoji": "🇲🇾",
-        "Unicode": "U+1F1F2 U+1F1FE"
+        "FlagEmoji": "🇲🇾",
+        "FlagUnicode": "U+1F1F2 U+1F1FE"
     },
     {
         "CountryName": "Mozambique",
@@ -3141,8 +3141,8 @@
         "CurrencyNumericCode": "943",
         "CurrencySymbol": "MT",
         "CurrencyName": "Mozambican Metical",
-        "Emoji": "🇲🇿",
-        "Unicode": "U+1F1F2 U+1F1FF"
+        "FlagEmoji": "🇲🇿",
+        "FlagUnicode": "U+1F1F2 U+1F1FF"
     },
     {
         "CountryName": "Namibia",
@@ -3161,8 +3161,8 @@
         "CurrencyNumericCode": "516",
         "CurrencySymbol": "$",
         "CurrencyName": "Namibian Dollar",
-        "Emoji": "🇳🇦",
-        "Unicode": "U+1F1F3 U+1F1E6"
+        "FlagEmoji": "🇳🇦",
+        "FlagUnicode": "U+1F1F3 U+1F1E6"
     },
     {
         "CountryName": "New Caledonia",
@@ -3180,8 +3180,8 @@
         "CurrencyNumericCode": "953",
         "CurrencySymbol": "₣",
         "CurrencyName": "CFP Franc",
-        "Emoji": "🇳🇨",
-        "Unicode": "U+1F1F3 U+1F1E8"
+        "FlagEmoji": "🇳🇨",
+        "FlagUnicode": "U+1F1F3 U+1F1E8"
     },
     {
         "CountryName": "Niger",
@@ -3201,8 +3201,8 @@
         "CurrencyNumericCode": "952",
         "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BCEAO",
-        "Emoji": "🇳🇪",
-        "Unicode": "U+1F1F3 U+1F1EA"
+        "FlagEmoji": "🇳🇪",
+        "FlagUnicode": "U+1F1F3 U+1F1EA"
     },
     {
         "CountryName": "Norfolk Island",
@@ -3220,8 +3220,8 @@
         "CurrencyNumericCode": "036",
         "CurrencySymbol": "$",
         "CurrencyName": "Australian Dollar",
-        "Emoji": "🇳🇫",
-        "Unicode": "U+1F1F3 U+1F1EB"
+        "FlagEmoji": "🇳🇫",
+        "FlagUnicode": "U+1F1F3 U+1F1EB"
     },
     {
         "CountryName": "Nigeria",
@@ -3241,8 +3241,8 @@
         "CurrencyNumericCode": "566",
         "CurrencySymbol": "₦",
         "CurrencyName": "Nigerian Naira",
-        "Emoji": "🇳🇬",
-        "Unicode": "U+1F1F3 U+1F1EC"
+        "FlagEmoji": "🇳🇬",
+        "FlagUnicode": "U+1F1F3 U+1F1EC"
     },
     {
         "CountryName": "Nicaragua",
@@ -3262,8 +3262,8 @@
         "CurrencyNumericCode": "558",
         "CurrencySymbol": "$",
         "CurrencyName": "Nicaraguan Córdoba",
-        "Emoji": "🇳🇮",
-        "Unicode": "U+1F1F3 U+1F1EE"
+        "FlagEmoji": "🇳🇮",
+        "FlagUnicode": "U+1F1F3 U+1F1EE"
     },
     {
         "CountryName": "Netherlands",
@@ -3281,8 +3281,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇳🇱",
-        "Unicode": "U+1F1F3 U+1F1F1"
+        "FlagEmoji": "🇳🇱",
+        "FlagUnicode": "U+1F1F3 U+1F1F1"
     },
     {
         "CountryName": "Norway",
@@ -3300,8 +3300,8 @@
         "CurrencyNumericCode": "578",
         "CurrencySymbol": "kr",
         "CurrencyName": "Norwegian Krone",
-        "Emoji": "🇳🇴",
-        "Unicode": "U+1F1F3 U+1F1F4"
+        "FlagEmoji": "🇳🇴",
+        "FlagUnicode": "U+1F1F3 U+1F1F4"
     },
     {
         "CountryName": "Nepal",
@@ -3319,8 +3319,8 @@
         "CurrencyNumericCode": "524",
         "CurrencySymbol": "Rs",
         "CurrencyName": "Nepalese Rupee",
-        "Emoji": "🇳🇵",
-        "Unicode": "U+1F1F3 U+1F1F5"
+        "FlagEmoji": "🇳🇵",
+        "FlagUnicode": "U+1F1F3 U+1F1F5"
     },
     {
         "CountryName": "Nauru",
@@ -3338,8 +3338,8 @@
         "CurrencyNumericCode": "036",
         "CurrencySymbol": "$",
         "CurrencyName": "Australian Dollar",
-        "Emoji": "🇳🇷",
-        "Unicode": "U+1F1F3 U+1F1F7"
+        "FlagEmoji": "🇳🇷",
+        "FlagUnicode": "U+1F1F3 U+1F1F7"
     },
     {
         "CountryName": "Niue",
@@ -3357,8 +3357,8 @@
         "CurrencyNumericCode": "554",
         "CurrencySymbol": "$",
         "CurrencyName": "New Zealand Dollar",
-        "Emoji": "🇳🇺",
-        "Unicode": "U+1F1F3 U+1F1FA"
+        "FlagEmoji": "🇳🇺",
+        "FlagUnicode": "U+1F1F3 U+1F1FA"
     },
     {
         "CountryName": "New Zealand",
@@ -3376,8 +3376,8 @@
         "CurrencyNumericCode": "554",
         "CurrencySymbol": "$",
         "CurrencyName": "New Zealand Dollar",
-        "Emoji": "🇳🇿",
-        "Unicode": "U+1F1F3 U+1F1FF"
+        "FlagEmoji": "🇳🇿",
+        "FlagUnicode": "U+1F1F3 U+1F1FF"
     },
     {
         "CountryName": "Oman",
@@ -3395,8 +3395,8 @@
         "CurrencyNumericCode": "512",
         "CurrencySymbol": "ر.ع.",
         "CurrencyName": "Omani Rial",
-        "Emoji": "🇴🇲",
-        "Unicode": "U+1F1F4 U+1F1F2"
+        "FlagEmoji": "🇴🇲",
+        "FlagUnicode": "U+1F1F4 U+1F1F2"
     },
     {
         "CountryName": "Panama",
@@ -3416,8 +3416,8 @@
         "CurrencyNumericCode": "590",
         "CurrencySymbol": "B/.",
         "CurrencyName": "Panamanian Balboa",
-        "Emoji": "🇵🇦",
-        "Unicode": "U+1F1F5 U+1F1E6"
+        "FlagEmoji": "🇵🇦",
+        "FlagUnicode": "U+1F1F5 U+1F1E6"
     },
     {
         "CountryName": "Peru",
@@ -3437,8 +3437,8 @@
         "CurrencyNumericCode": "604",
         "CurrencySymbol": "S/",
         "CurrencyName": "Peruvian Sol",
-        "Emoji": "🇵🇪",
-        "Unicode": "U+1F1F5 U+1F1EA"
+        "FlagEmoji": "🇵🇪",
+        "FlagUnicode": "U+1F1F5 U+1F1EA"
     },
     {
         "CountryName": "French Polynesia",
@@ -3456,8 +3456,8 @@
         "CurrencyNumericCode": "953",
         "CurrencySymbol": "₣",
         "CurrencyName": "CFP Franc",
-        "Emoji": "🇵🇫",
-        "Unicode": "U+1F1F5 U+1F1EB"
+        "FlagEmoji": "🇵🇫",
+        "FlagUnicode": "U+1F1F5 U+1F1EB"
     },
     {
         "CountryName": "Papua New Guinea",
@@ -3475,8 +3475,8 @@
         "CurrencyNumericCode": "598",
         "CurrencySymbol": "K",
         "CurrencyName": "Papua New Guinean Kina",
-        "Emoji": "🇵🇬",
-        "Unicode": "U+1F1F5 U+1F1EC"
+        "FlagEmoji": "🇵🇬",
+        "FlagUnicode": "U+1F1F5 U+1F1EC"
     },
     {
         "CountryName": "Philippines",
@@ -3494,8 +3494,8 @@
         "CurrencyNumericCode": "608",
         "CurrencySymbol": "₱",
         "CurrencyName": "Philippine Peso",
-        "Emoji": "🇵🇭",
-        "Unicode": "U+1F1F5 U+1F1ED"
+        "FlagEmoji": "🇵🇭",
+        "FlagUnicode": "U+1F1F5 U+1F1ED"
     },
     {
         "CountryName": "Pakistan",
@@ -3513,8 +3513,8 @@
         "CurrencyNumericCode": "586",
         "CurrencySymbol": "Rs",
         "CurrencyName": "Pakistani Rupee",
-        "Emoji": "🇵🇰",
-        "Unicode": "U+1F1F5 U+1F1F0"
+        "FlagEmoji": "🇵🇰",
+        "FlagUnicode": "U+1F1F5 U+1F1F0"
     },
     {
         "CountryName": "Poland",
@@ -3532,8 +3532,8 @@
         "CurrencyNumericCode": "985",
         "CurrencySymbol": "zł",
         "CurrencyName": "Polish Złoty",
-        "Emoji": "🇵🇱",
-        "Unicode": "U+1F1F5 U+1F1F1"
+        "FlagEmoji": "🇵🇱",
+        "FlagUnicode": "U+1F1F5 U+1F1F1"
     },
     {
         "CountryName": "Saint Pierre and Miquelon",
@@ -3551,8 +3551,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇵🇲",
-        "Unicode": "U+1F1F5 U+1F1F2"
+        "FlagEmoji": "🇵🇲",
+        "FlagUnicode": "U+1F1F5 U+1F1F2"
     },
     {
         "CountryName": "Pitcairn",
@@ -3570,8 +3570,8 @@
         "CurrencyNumericCode": "554",
         "CurrencySymbol": "$",
         "CurrencyName": "New Zealand Dollar",
-        "Emoji": "🇵🇳",
-        "Unicode": "U+1F1F5 U+1F1F3"
+        "FlagEmoji": "🇵🇳",
+        "FlagUnicode": "U+1F1F5 U+1F1F3"
     },
     {
         "CountryName": "Puerto Rico",
@@ -3591,8 +3591,8 @@
         "CurrencyNumericCode": "840",
         "CurrencySymbol": "$",
         "CurrencyName": "United States Dollar",
-        "Emoji": "🇵🇷",
-        "Unicode": "U+1F1F5 U+1F1F7"
+        "FlagEmoji": "🇵🇷",
+        "FlagUnicode": "U+1F1F5 U+1F1F7"
     },
     {
         "CountryName": "Palestine, State of",
@@ -3610,8 +3610,8 @@
         "CurrencyNumericCode": "376",
         "CurrencySymbol": "₪",
         "CurrencyName": "Israeli New Shekel",
-        "Emoji": "🇵🇸",
-        "Unicode": "U+1F1F5 U+1F1F8"
+        "FlagEmoji": "🇵🇸",
+        "FlagUnicode": "U+1F1F5 U+1F1F8"
     },
     {
         "CountryName": "Portugal",
@@ -3629,8 +3629,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇵🇹",
-        "Unicode": "U+1F1F5 U+1F1F9"
+        "FlagEmoji": "🇵🇹",
+        "FlagUnicode": "U+1F1F5 U+1F1F9"
     },
     {
         "CountryName": "Palau",
@@ -3648,8 +3648,8 @@
         "CurrencyNumericCode": "840",
         "CurrencySymbol": "$",
         "CurrencyName": "United States Dollar",
-        "Emoji": "🇵🇼",
-        "Unicode": "U+1F1F5 U+1F1FC"
+        "FlagEmoji": "🇵🇼",
+        "FlagUnicode": "U+1F1F5 U+1F1FC"
     },
     {
         "CountryName": "Paraguay",
@@ -3669,8 +3669,8 @@
         "CurrencyNumericCode": "600",
         "CurrencySymbol": "₲",
         "CurrencyName": "Paraguayan Guaraní",
-        "Emoji": "🇵🇾",
-        "Unicode": "U+1F1F5 U+1F1FE"
+        "FlagEmoji": "🇵🇾",
+        "FlagUnicode": "U+1F1F5 U+1F1FE"
     },
     {
         "CountryName": "Qatar",
@@ -3688,8 +3688,8 @@
         "CurrencyNumericCode": "634",
         "CurrencySymbol": "ر.ق",
         "CurrencyName": "Qatari Riyal",
-        "Emoji": "🇶🇦",
-        "Unicode": "U+1F1F6 U+1F1E6"
+        "FlagEmoji": "🇶🇦",
+        "FlagUnicode": "U+1F1F6 U+1F1E6"
     },
     {
         "CountryName": "Réunion",
@@ -3709,8 +3709,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇷🇪",
-        "Unicode": "U+1F1F7 U+1F1EA"
+        "FlagEmoji": "🇷🇪",
+        "FlagUnicode": "U+1F1F7 U+1F1EA"
     },
     {
         "CountryName": "Romania",
@@ -3728,8 +3728,8 @@
         "CurrencyNumericCode": "946",
         "CurrencySymbol": "lei",
         "CurrencyName": "Romanian Leu",
-        "Emoji": "🇷🇴",
-        "Unicode": "U+1F1F7 U+1F1F4"
+        "FlagEmoji": "🇷🇴",
+        "FlagUnicode": "U+1F1F7 U+1F1F4"
     },
     {
         "CountryName": "Serbia",
@@ -3747,8 +3747,8 @@
         "CurrencyNumericCode": "941",
         "CurrencySymbol": "дин",
         "CurrencyName": "Serbian Dinar",
-        "Emoji": "🇷🇸",
-        "Unicode": "U+1F1F7 U+1F1F8"
+        "FlagEmoji": "🇷🇸",
+        "FlagUnicode": "U+1F1F7 U+1F1F8"
     },
     {
         "CountryName": "Russian Federation",
@@ -3766,8 +3766,8 @@
         "CurrencyNumericCode": "643",
         "CurrencySymbol": "₽",
         "CurrencyName": "Russian Ruble",
-        "Emoji": "🇷🇺",
-        "Unicode": "U+1F1F7 U+1F1FA"
+        "FlagEmoji": "🇷🇺",
+        "FlagUnicode": "U+1F1F7 U+1F1FA"
     },
     {
         "CountryName": "Rwanda",
@@ -3787,8 +3787,8 @@
         "CurrencyNumericCode": "646",
         "CurrencySymbol": "FRw",
         "CurrencyName": "Rwandan Franc",
-        "Emoji": "🇷🇼",
-        "Unicode": "U+1F1F7 U+1F1FC"
+        "FlagEmoji": "🇷🇼",
+        "FlagUnicode": "U+1F1F7 U+1F1FC"
     },
     {
         "CountryName": "Saudi Arabia",
@@ -3806,8 +3806,8 @@
         "CurrencyNumericCode": "682",
         "CurrencySymbol": "ر.س",
         "CurrencyName": "Saudi Riyal",
-        "Emoji": "🇸🇦",
-        "Unicode": "U+1F1F8 U+1F1E6"
+        "FlagEmoji": "🇸🇦",
+        "FlagUnicode": "U+1F1F8 U+1F1E6"
     },
     {
         "CountryName": "Solomon Islands",
@@ -3825,8 +3825,8 @@
         "CurrencyNumericCode": "090",
         "CurrencySymbol": "$",
         "CurrencyName": "Solomon Islands Dollar",
-        "Emoji": "🇸🇧",
-        "Unicode": "U+1F1F8 U+1F1E7"
+        "FlagEmoji": "🇸🇧",
+        "FlagUnicode": "U+1F1F8 U+1F1E7"
     },
     {
         "CountryName": "Seychelles",
@@ -3846,8 +3846,8 @@
         "CurrencyNumericCode": "690",
         "CurrencySymbol": "₨",
         "CurrencyName": "Seychelles Rupee",
-        "Emoji": "🇸🇨",
-        "Unicode": "U+1F1F8 U+1F1E8"
+        "FlagEmoji": "🇸🇨",
+        "FlagUnicode": "U+1F1F8 U+1F1E8"
     },
     {
         "CountryName": "Sudan",
@@ -3865,8 +3865,8 @@
         "CurrencyNumericCode": "938",
         "CurrencySymbol": "ج.س",
         "CurrencyName": "Sudanese Pound",
-        "Emoji": "🇸🇩",
-        "Unicode": "U+1F1F8 U+1F1E9"
+        "FlagEmoji": "🇸🇩",
+        "FlagUnicode": "U+1F1F8 U+1F1E9"
     },
     {
         "CountryName": "Sweden",
@@ -3884,8 +3884,8 @@
         "CurrencyNumericCode": "752",
         "CurrencyName": "Swedish Krona",
         "CurrencySymbol": "kr",
-        "Emoji": "🇸🇪",
-        "Unicode": "U+1F1F8 U+1F1EA"
+        "FlagEmoji": "🇸🇪",
+        "FlagUnicode": "U+1F1F8 U+1F1EA"
     },
     {
         "CountryName": "Singapore",
@@ -3903,8 +3903,8 @@
         "CurrencyNumericCode": "702",
         "CurrencySymbol": "$",
         "CurrencyName": "Singapore Dollar",
-        "Emoji": "🇸🇬",
-        "Unicode": "U+1F1F8 U+1F1EC"
+        "FlagEmoji": "🇸🇬",
+        "FlagUnicode": "U+1F1F8 U+1F1EC"
     },
     {
         "CountryName": "Saint Helena, Ascension and Tristan da Cunha",
@@ -3924,8 +3924,8 @@
         "CurrencyNumericCode": "654",
         "CurrencySymbol": "£",
         "CurrencyName": "Saint Helena Pound",
-        "Emoji": "🇸🇭",
-        "Unicode": "U+1F1F8 U+1F1ED"
+        "FlagEmoji": "🇸🇭",
+        "FlagUnicode": "U+1F1F8 U+1F1ED"
     },
     {
         "CountryName": "Slovenia",
@@ -3943,8 +3943,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇸🇮",
-        "Unicode": "U+1F1F8 U+1F1EE"
+        "FlagEmoji": "🇸🇮",
+        "FlagUnicode": "U+1F1F8 U+1F1EE"
     },
     {
         "CountryName": "Svalbard and Jan Mayen",
@@ -3962,8 +3962,8 @@
         "CurrencyNumericCode": "578",
         "CurrencySymbol": "kr",
         "CurrencyName": "Norwegian Krone",
-        "Emoji": "🇸🇯",
-        "Unicode": "U+1F1F8 U+1F1EF"
+        "FlagEmoji": "🇸🇯",
+        "FlagUnicode": "U+1F1F8 U+1F1EF"
     },
     {
         "CountryName": "Slovakia",
@@ -3981,8 +3981,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇸🇰",
-        "Unicode": "U+1F1F8 U+1F1F0"
+        "FlagEmoji": "🇸🇰",
+        "FlagUnicode": "U+1F1F8 U+1F1F0"
     },
     {
         "CountryName": "Sierra Leone",
@@ -4002,8 +4002,8 @@
         "CurrencyNumericCode": "925",
         "CurrencySymbol": "Le",
         "CurrencyName": "Sierra Leonean Leone",
-        "Emoji": "🇸🇱",
-        "Unicode": "U+1F1F8 U+1F1F1"
+        "FlagEmoji": "🇸🇱",
+        "FlagUnicode": "U+1F1F8 U+1F1F1"
     },
     {
         "CountryName": "San Marino",
@@ -4021,8 +4021,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇸🇲",
-        "Unicode": "U+1F1F8 U+1F1F2"
+        "FlagEmoji": "🇸🇲",
+        "FlagUnicode": "U+1F1F8 U+1F1F2"
     },
     {
         "CountryName": "Senegal",
@@ -4042,8 +4042,8 @@
         "CurrencyNumericCode": "952",
         "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BCEAO",
-        "Emoji": "🇸🇳",
-        "Unicode": "U+1F1F8 U+1F1F3"
+        "FlagEmoji": "🇸🇳",
+        "FlagUnicode": "U+1F1F8 U+1F1F3"
     },
     {
         "CountryName": "Somalia",
@@ -4063,8 +4063,8 @@
         "CurrencyNumericCode": "706",
         "CurrencySymbol": "Sh",
         "CurrencyName": "Somalian Shilling",
-        "Emoji": "🇸🇴",
-        "Unicode": "U+1F1F8 U+1F1F4"
+        "FlagEmoji": "🇸🇴",
+        "FlagUnicode": "U+1F1F8 U+1F1F4"
     },
     {
         "CountryName": "Suriname",
@@ -4084,8 +4084,8 @@
         "CurrencyNumericCode": "968",
         "CurrencySymbol": "$",
         "CurrencyName": "Surinamese Dollar",
-        "Emoji": "🇸🇷",
-        "Unicode": "U+1F1F8 U+1F1F7"
+        "FlagEmoji": "🇸🇷",
+        "FlagUnicode": "U+1F1F8 U+1F1F7"
     },
     {
         "CountryName": "South Sudan",
@@ -4105,8 +4105,8 @@
         "CurrencyNumericCode": "728",
         "CurrencySymbol": "CFA",
         "CurrencyName": "South Sudanese Pound",
-        "Emoji": "🇸🇸",
-        "Unicode": "U+1F1F8 U+1F1F8"
+        "FlagEmoji": "🇸🇸",
+        "FlagUnicode": "U+1F1F8 U+1F1F8"
     },
     {
         "CountryName": "Sao Tome and Principe",
@@ -4126,8 +4126,8 @@
         "CurrencyNumericCode": "930",
         "CurrencySymbol": "Db",
         "CurrencyName": "São Tomé and Príncipe Dobra",
-        "Emoji": "🇸🇹",
-        "Unicode": "U+1F1F8 U+1F1F9"
+        "FlagEmoji": "🇸🇹",
+        "FlagUnicode": "U+1F1F8 U+1F1F9"
     },
     {
         "CountryName": "El Salvador",
@@ -4147,8 +4147,8 @@
         "CurrencyNumericCode": "222",
         "CurrencySymbol": "$",
         "CurrencyName": "Salvadoran Colón",
-        "Emoji": "🇸🇻",
-        "Unicode": "U+1F1F8 U+1F1FB"
+        "FlagEmoji": "🇸🇻",
+        "FlagUnicode": "U+1F1F8 U+1F1FB"
     },
     {
         "CountryName": "Sint Maarten (Dutch part)",
@@ -4168,8 +4168,8 @@
         "CurrencyNumericCode": "532",
         "CurrencySymbol": "ƒ",
         "CurrencyName": "Netherlands Antillean Guilder",
-        "Emoji": "🇸🇽",
-        "Unicode": "U+1F1F8 U+1F1FD"
+        "FlagEmoji": "🇸🇽",
+        "FlagUnicode": "U+1F1F8 U+1F1FD"
     },
     {
         "CountryName": "Syrian Arab Republic",
@@ -4187,8 +4187,8 @@
         "CurrencyNumericCode": "760",
         "CurrencySymbol": "£",
         "CurrencyName": "Syrian Pound",
-        "Emoji": "🇸🇾",
-        "Unicode": "U+1F1F8 U+1F1FE"
+        "FlagEmoji": "🇸🇾",
+        "FlagUnicode": "U+1F1F8 U+1F1FE"
     },
     {
         "CountryName": "Eswatini",
@@ -4208,8 +4208,8 @@
         "CurrencyNumericCode": "748",
         "CurrencySymbol": "E",
         "CurrencyName": "Swazi Lilangeni",
-        "Emoji": "🇸🇿",
-        "Unicode": "U+1F1F8 U+1F1FF"
+        "FlagEmoji": "🇸🇿",
+        "FlagUnicode": "U+1F1F8 U+1F1FF"
     },
     {
         "CountryName": "Turks and Caicos Islands",
@@ -4229,8 +4229,8 @@
         "CurrencyNumericCode": "840",
         "CurrencySymbol": "$",
         "CurrencyName": "United States Dollar",
-        "Emoji": "🇹🇨",
-        "Unicode": "U+1F1F9 U+1F1E8"
+        "FlagEmoji": "🇹🇨",
+        "FlagUnicode": "U+1F1F9 U+1F1E8"
     },
     {
         "CountryName": "Chad",
@@ -4250,8 +4250,8 @@
         "CurrencyNumericCode": "950",
         "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BEAC",
-        "Emoji": "🇹🇩",
-        "Unicode": "U+1F1F9 U+1F1E9"
+        "FlagEmoji": "🇹🇩",
+        "FlagUnicode": "U+1F1F9 U+1F1E9"
     },
     {
         "CountryName": "French Southern Territories",
@@ -4271,8 +4271,8 @@
         "CurrencyNumericCode": "036",
         "CurrencySymbol": "$",
         "CurrencyName": "Australian Dollar",
-        "Emoji": "🇹🇫",
-        "Unicode": "U+1F1F9 U+1F1EB"
+        "FlagEmoji": "🇹🇫",
+        "FlagUnicode": "U+1F1F9 U+1F1EB"
     },
     {
         "CountryName": "Togo",
@@ -4292,8 +4292,8 @@
         "CurrencyNumericCode": "952",
         "CurrencySymbol": "CFA",
         "CurrencyName": "CFA Franc BCEAO",
-        "Emoji": "🇹🇬",
-        "Unicode": "U+1F1F9 U+1F1EC"
+        "FlagEmoji": "🇹🇬",
+        "FlagUnicode": "U+1F1F9 U+1F1EC"
     },
     {
         "CountryName": "Thailand",
@@ -4311,8 +4311,8 @@
         "CurrencyNumericCode": "764",
         "CurrencySymbol": "฿",
         "CurrencyName": "Thai Baht",
-        "Emoji": "🇹🇭",
-        "Unicode": "U+1F1F9 U+1F1ED"
+        "FlagEmoji": "🇹🇭",
+        "FlagUnicode": "U+1F1F9 U+1F1ED"
     },
     {
         "CountryName": "Tajikistan",
@@ -4330,8 +4330,8 @@
         "CurrencyNumericCode": "972",
         "CurrencySymbol": "SM",
         "CurrencyName": "Tajikistani Somoni",
-        "Emoji": "🇹🇯",
-        "Unicode": "U+1F1F9 U+1F1EF"
+        "FlagEmoji": "🇹🇯",
+        "FlagUnicode": "U+1F1F9 U+1F1EF"
     },
     {
         "CountryName": "Tokelau",
@@ -4349,8 +4349,8 @@
         "CurrencyNumericCode": "554",
         "CurrencySymbol": "$",
         "CurrencyName": "New Zealand Dollar",
-        "Emoji": "🇹🇰",
-        "Unicode": "U+1F1F9 U+1F1F0"
+        "FlagEmoji": "🇹🇰",
+        "FlagUnicode": "U+1F1F9 U+1F1F0"
     },
     {
         "CountryName": "Timor-Leste",
@@ -4368,8 +4368,8 @@
         "CurrencyNumericCode": "840",
         "CurrencySymbol": "$",
         "CurrencyName": "United States Dollar",
-        "Emoji": "🇹🇱",
-        "Unicode": "U+1F1F9 U+1F1F1"
+        "FlagEmoji": "🇹🇱",
+        "FlagUnicode": "U+1F1F9 U+1F1F1"
     },
     {
         "CountryName": "Turkmenistan",
@@ -4387,8 +4387,8 @@
         "CurrencyNumericCode": "934",
         "CurrencySymbol": "m",
         "CurrencyName": "Turkmenistan Manat",
-        "Emoji": "🇹🇲",
-        "Unicode": "U+1F1F9 U+1F1F2"
+        "FlagEmoji": "🇹🇲",
+        "FlagUnicode": "U+1F1F9 U+1F1F2"
     },
     {
         "CountryName": "Tunisia",
@@ -4406,8 +4406,8 @@
         "CurrencyNumericCode": "788",
         "CurrencySymbol": "د.ت",
         "CurrencyName": "Tunisian Dinar",
-        "Emoji": "🇹🇳",
-        "Unicode": "U+1F1F9 U+1F1F3"
+        "FlagEmoji": "🇹🇳",
+        "FlagUnicode": "U+1F1F9 U+1F1F3"
     },
     {
         "CountryName": "Tonga",
@@ -4425,8 +4425,8 @@
         "CurrencyNumericCode": "776",
         "CurrencySymbol": "T$",
         "CurrencyName": "Tongan Paʻanga",
-        "Emoji": "🇹🇴",
-        "Unicode": "U+1F1F9 U+1F1F4"
+        "FlagEmoji": "🇹🇴",
+        "FlagUnicode": "U+1F1F9 U+1F1F4"
     },
     {
         "CountryName": "Turkey",
@@ -4444,8 +4444,8 @@
         "CurrencyNumericCode": "949",
         "CurrencySymbol": "₺",
         "CurrencyName": "Turkish Lira",
-        "Emoji": "🇹🇷",
-        "Unicode": "U+1F1F9 U+1F1F7"
+        "FlagEmoji": "🇹🇷",
+        "FlagUnicode": "U+1F1F9 U+1F1F7"
     },
     {
         "CountryName": "Trinidad and Tobago",
@@ -4465,8 +4465,8 @@
         "CurrencyNumericCode": "780",
         "CurrencySymbol": "$",
         "CurrencyName": "Trinidad and Tobago Dollar",
-        "Emoji": "🇹🇹",
-        "Unicode": "U+1F1F9 U+1F1F9"
+        "FlagEmoji": "🇹🇹",
+        "FlagUnicode": "U+1F1F9 U+1F1F9"
     },
     {
         "CountryName": "Tuvalu",
@@ -4484,8 +4484,8 @@
         "CurrencyNumericCode": "036",
         "CurrencySymbol": "$",
         "CurrencyName": "Australian Dollar",
-        "Emoji": "🇹🇻",
-        "Unicode": "U+1F1F9 U+1F1FB"
+        "FlagEmoji": "🇹🇻",
+        "FlagUnicode": "U+1F1F9 U+1F1FB"
     },
     {
         "CountryName": "Taiwan, Province of China",
@@ -4499,8 +4499,8 @@
         "CurrencyNumericCode": "901",
         "CurrencySymbol": "$",
         "CurrencyName": "New Taiwan Dollar",
-        "Emoji": "🇹🇼",
-        "Unicode": "U+1F1F9 U+1F1FC"
+        "FlagEmoji": "🇹🇼",
+        "FlagUnicode": "U+1F1F9 U+1F1FC"
     },
     {
         "CountryName": "Tanzania, United Republic of",
@@ -4520,8 +4520,8 @@
         "CurrencyNumericCode": "834",
         "CurrencySymbol": "TSh",
         "CurrencyName": "Tanzanian Shilling",
-        "Emoji": "🇹🇿",
-        "Unicode": "U+1F1F9 U+1F1FF"
+        "FlagEmoji": "🇹🇿",
+        "FlagUnicode": "U+1F1F9 U+1F1FF"
     },
     {
         "CountryName": "Ukraine",
@@ -4539,8 +4539,8 @@
         "CurrencyNumericCode": "980",
         "CurrencySymbol": "₴",
         "CurrencyName": "Ukrainian Hryvnia",
-        "Emoji": "🇺🇦",
-        "Unicode": "U+1F1FA U+1F1E6"
+        "FlagEmoji": "🇺🇦",
+        "FlagUnicode": "U+1F1FA U+1F1E6"
     },
     {
         "CountryName": "Uganda",
@@ -4560,8 +4560,8 @@
         "CurrencyNumericCode": "800",
         "CurrencySymbol": "Sh",
         "CurrencyName": "Ugandan Shilling",
-        "Emoji": "🇺🇬",
-        "Unicode": "U+1F1FA U+1F1EC"
+        "FlagEmoji": "🇺🇬",
+        "FlagUnicode": "U+1F1FA U+1F1EC"
     },
     {
         "CountryName": "United States Minor Outlying Islands",
@@ -4578,8 +4578,8 @@
         "CurrencyNumericCode": "840",
         "CurrencySymbol": "$",
         "CurrencyName": "United States Dollar",
-        "Emoji": "🇺🇲",
-        "Unicode": "U+1F1FA U+1F1F2"
+        "FlagEmoji": "🇺🇲",
+        "FlagUnicode": "U+1F1FA U+1F1F2"
     },
     {
         "CountryName": "United States of America",
@@ -4597,8 +4597,8 @@
         "CurrencyNumericCode": "840",
         "CurrencySymbol": "$",
         "CurrencyName": "United States Dollar",
-        "Emoji": "🇺🇸",
-        "Unicode": "U+1F1FA U+1F1F8"
+        "FlagEmoji": "🇺🇸",
+        "FlagUnicode": "U+1F1FA U+1F1F8"
     },
     {
         "CountryName": "Uruguay",
@@ -4618,8 +4618,8 @@
         "CurrencyNumericCode": "858",
         "CurrencySymbol": "$",
         "CurrencyName": "Uruguayan Peso",
-        "Emoji": "🇺🇾",
-        "Unicode": "U+1F1FA U+1F1FE"
+        "FlagEmoji": "🇺🇾",
+        "FlagUnicode": "U+1F1FA U+1F1FE"
     },
     {
         "CountryName": "Uzbekistan",
@@ -4637,8 +4637,8 @@
         "CurrencyNumericCode": "860",
         "CurrencySymbol": "soʻm",
         "CurrencyName": "Uzbekistani Sum",
-        "Emoji": "🇺🇿",
-        "Unicode": "U+1F1FA U+1F1FF"
+        "FlagEmoji": "🇺🇿",
+        "FlagUnicode": "U+1F1FA U+1F1FF"
     },
     {
         "CountryName": "Holy See",
@@ -4656,8 +4656,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇻🇦",
-        "Unicode": "U+1F1FB U+1F1E6"
+        "FlagEmoji": "🇻🇦",
+        "FlagUnicode": "U+1F1FB U+1F1E6"
     },
     {
         "CountryName": "Saint Vincent and the Grenadines",
@@ -4677,8 +4677,8 @@
         "CurrencyNumericCode": "951",
         "CurrencySymbol": "$",
         "CurrencyName": "East Caribbean Dollar",
-        "Emoji": "🇻🇨",
-        "Unicode": "U+1F1FB U+1F1E8"
+        "FlagEmoji": "🇻🇨",
+        "FlagUnicode": "U+1F1FB U+1F1E8"
     },
     {
         "CountryName": "Venezuela (Bolivarian Republic of)",
@@ -4698,8 +4698,8 @@
         "CurrencyNumericCode": "928/926",
         "CurrencySymbol": "Bs.",
         "CurrencyName": "Venezuelan Sovereign Bolívar/Venezuelan Digital Bolívar",
-        "Emoji": "🇻🇪",
-        "Unicode": "U+1F1FB U+1F1EA"
+        "FlagEmoji": "🇻🇪",
+        "FlagUnicode": "U+1F1FB U+1F1EA"
     },
     {
         "CountryName": "Virgin Islands (British)",
@@ -4719,8 +4719,8 @@
         "CurrencyNumericCode": "840",
         "CurrencySymbol": "$",
         "CurrencyName": "United States Dollar",
-        "Emoji": "🇻🇬",
-        "Unicode": "U+1F1FB U+1F1EC"
+        "FlagEmoji": "🇻🇬",
+        "FlagUnicode": "U+1F1FB U+1F1EC"
     },
     {
         "CountryName": "Virgin Islands (U.S.)",
@@ -4740,8 +4740,8 @@
         "CurrencyNumericCode": "840",
         "CurrencySymbol": "$",
         "CurrencyName": "United States Dollar",
-        "Emoji": "🇻🇮",
-        "Unicode": "U+1F1FB U+1F1EE"
+        "FlagEmoji": "🇻🇮",
+        "FlagUnicode": "U+1F1FB U+1F1EE"
     },
     {
         "CountryName": "Viet Nam",
@@ -4759,8 +4759,8 @@
         "CurrencyNumericCode": "704",
         "CurrencySymbol": "đ",
         "CurrencyName": "Vietnamese đồng",
-        "Emoji": "🇻🇳",
-        "Unicode": "U+1F1FB U+1F1F3"
+        "FlagEmoji": "🇻🇳",
+        "FlagUnicode": "U+1F1FB U+1F1F3"
     },
     {
         "CountryName": "Vanuatu",
@@ -4778,8 +4778,8 @@
         "CurrencyNumericCode": "548",
         "CurrencySymbol": "VT",
         "CurrencyName": "Vanuatu Vatu",
-        "Emoji": "🇻🇺",
-        "Unicode": "U+1F1FB U+1F1FA"
+        "FlagEmoji": "🇻🇺",
+        "FlagUnicode": "U+1F1FB U+1F1FA"
     },
     {
         "CountryName": "Wallis and Futuna",
@@ -4797,8 +4797,8 @@
         "CurrencyNumericCode": "953",
         "CurrencySymbol": "CFP",
         "CurrencyName": "CFP Franc",
-        "Emoji": "🇼🇫",
-        "Unicode": "U+1F1FC U+1F1EB"
+        "FlagEmoji": "🇼🇫",
+        "FlagUnicode": "U+1F1FC U+1F1EB"
     },
     {
         "CountryName": "Samoa",
@@ -4816,8 +4816,8 @@
         "CurrencyNumericCode": "882",
         "CurrencySymbol": "$",
         "CurrencyName": "Samoan Tala",
-        "Emoji": "🇼🇸",
-        "Unicode": "U+1F1FC U+1F1F8"
+        "FlagEmoji": "🇼🇸",
+        "FlagUnicode": "U+1F1FC U+1F1F8"
     },
     {
         "CountryName": "Yemen",
@@ -4835,8 +4835,8 @@
         "CurrencyNumericCode": "886",
         "CurrencySymbol": "﷼",
         "CurrencyName": "Yemeni Rial",
-        "Emoji": "🇾🇪",
-        "Unicode": "U+1F1FE U+1F1EA"
+        "FlagEmoji": "🇾🇪",
+        "FlagUnicode": "U+1F1FE U+1F1EA"
     },
     {
         "CountryName": "Mayotte",
@@ -4856,8 +4856,8 @@
         "CurrencyNumericCode": "978",
         "CurrencySymbol": "€",
         "CurrencyName": "Euro",
-        "Emoji": "🇾🇹",
-        "Unicode": "U+1F1FE U+1F1F9"
+        "FlagEmoji": "🇾🇹",
+        "FlagUnicode": "U+1F1FE U+1F1F9"
     },
     {
         "CountryName": "South Africa",
@@ -4877,8 +4877,8 @@
         "CurrencyNumericCode": "710",
         "CurrencySymbol": "R",
         "CurrencyName": "South African Rand",
-        "Emoji": "🇿🇦",
-        "Unicode": "U+1F1FF U+1F1E6"
+        "FlagEmoji": "🇿🇦",
+        "FlagUnicode": "U+1F1FF U+1F1E6"
     },
     {
         "CountryName": "Zambia",
@@ -4898,8 +4898,8 @@
         "CurrencyNumericCode": "967",
         "CurrencySymbol": "ZK",
         "CurrencyName": "Zambian Kwacha",
-        "Emoji": "🇿🇲",
-        "Unicode": "U+1F1FF U+1F1F2"
+        "FlagEmoji": "🇿🇲",
+        "FlagUnicode": "U+1F1FF U+1F1F2"
     },
     {
         "CountryName": "Zimbabwe",
@@ -4919,7 +4919,7 @@
         "CurrencyNumericCode": "932",
         "CurrencySymbol": "$",
         "CurrencyName": "Zimbabwean Dollar",
-        "Emoji": "🇿🇼",
-        "Unicode": "U+1F1FF U+1F1FC"
+        "FlagEmoji": "🇿🇼",
+        "FlagUnicode": "U+1F1FF U+1F1FC"
     }
 ]

@@ -39,9 +39,9 @@ _**Source:** [ITU](https://www.itu.int/en/ITU-T/Pages/default.aspx)_
 _**Source:** [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217)_
 
 ## 🚩Flag
-- Emoji
-- Unicode
-- Image
+- FlagEmoji
+- FlagUnicode
+- FlagImage
 
 _**Source:** [Openmoji](https://openmoji.org/library/)_
 

@@ -3606,10 +3606,7 @@
         "SubRegionName": "Western Asia",
         "SubRegionCode": "145",
         "CallingCode": "970",
-        "CurrencyCode": "ILS",
-        "CurrencyNumericCode": "376",
         "CurrencySymbol": "₪",
-        "CurrencyName": "Israeli New Shekel",
         "FlagEmoji": "🇵🇸",
         "FlagUnicode": "U+1F1F5 U+1F1F8"
     },
@@ -3882,8 +3879,8 @@
         "CallingCode": "46",
         "CurrencyCode": "SEK",
         "CurrencyNumericCode": "752",
-        "CurrencyName": "Swedish Krona",
         "CurrencySymbol": "kr",
+        "CurrencyName": "Swedish Krona",
         "FlagEmoji": "🇸🇪",
         "FlagUnicode": "U+1F1F8 U+1F1EA"
     },

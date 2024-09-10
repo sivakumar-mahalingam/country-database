@@ -45,7 +45,7 @@ _**Source:** [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217)_
 ## 🚩Flag
 - FlagEmoji
 - FlagUnicode
-- FlagImage
+- FlagImage [ToDo]
 
 _**Source:** [Openmoji](https://openmoji.org/library/)_
 

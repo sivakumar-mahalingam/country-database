@@ -16,7 +16,6 @@ setup(
         'Source': 'https://github.com/sivakumar-mahalingam/country-database',
         'Tracker': 'https://github.com/sivakumar-mahalingam/country-database/issues',
     },
-    license="",
     python_requires=">=3.8",
     install_requires=[
         ""
@@ -33,6 +32,7 @@ setup(
     	"Intended Audience :: Education",
     	"Natural Language :: English",
     	"Operating System :: OS Independent",
+	"Typing :: Typed",
     ],
     keywords=[
         ""

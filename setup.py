@@ -16,7 +16,7 @@ setup(
         'Source': 'https://github.com/sivakumar-mahalingam/country-database',
         'Tracker': 'https://github.com/sivakumar-mahalingam/country-database/issues',
     },
-    license="mit",
+    license="",
     python_requires=">=3.8",
     install_requires=[
         ""
@@ -24,7 +24,15 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     classifiers=[
-        ""
+        "Environment :: Console",
+	    "Environment :: MacOS X",
+	    "Environment :: Win32 (MS Windows)",
+        "License :: OSI Approved :: MIT License",
+        "Development Status :: 5 - Production/Stable",
+        "Intended Audience :: Developers",
+    	"Intended Audience :: Education",
+    	"Natural Language :: English",
+    	"Operating System :: OS Independent",
     ],
     keywords=[
         ""

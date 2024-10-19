@@ -24,8 +24,8 @@ setup(
     include_package_data=True,
     classifiers=[
         "Environment :: Console",
-	    "Environment :: MacOS X",
-	    "Environment :: Win32 (MS Windows)",
+	"Environment :: MacOS X",
+	"Environment :: Win32 (MS Windows)",
         "License :: OSI Approved :: MIT License",
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",

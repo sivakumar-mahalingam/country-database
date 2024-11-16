@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf8") as f:
 
 
 setup(
-    name="",
+    name="country-database-py",
     version="1.0",
     author=["Sivakumar Mahalingam", "Sabarinath Velayudham"],
     description="",

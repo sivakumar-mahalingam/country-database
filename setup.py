@@ -33,6 +33,6 @@ setup(
 	"Typing :: Typed",
     ],
     keywords=[
-        ""
+        "country"
     ]
 )

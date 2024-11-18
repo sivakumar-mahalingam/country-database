@@ -49,5 +49,5 @@ _**Source:** [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217)_
 
 _**Source:** [Openmoji](https://openmoji.org/library/)_
 
-# License
+## ⚖️License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
